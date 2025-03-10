@@ -1,0 +1,388 @@
+[
+  {
+    "id": "chunk_TO 00-25-172CL-2_table_tbl_TO 00-25-172CL-2_p0_5c9a8fdc",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-2, PAGE 1\n\n| 0                       |\n|:------------------------|\n| TO 00-25-172CL-2        |\n| TECHNICAL MANUAL        |\n| CHECKLIST               |\n| CONCURRENT SERVICING OF |\n| COMMERCIAL CONTRACT     |\n| CARGO AIRCRAFT          |\n| LOGAIR AND QUICKTRANS   |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 0,
+      "asset_id": "tbl_TO 00-25-172CL-2_p0_5c9a8fdc",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_table_tbl_TO 00-25-172CL-2_p1_4f62e3a8",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-2, PAGE 2\n\n| 0                                                                     |\n|:----------------------------------------------------------------------|\n| PREFACE                                                               |\n| 1                                                                     |\n| GENERAL.                                                              |\n| LOGAIR/QUICKTRANS operate within a prescribed time sched-             |\n| ule to ensure timely delivery of critical                             |\n| shipments                                                             |\n| in support of                                                         |\n| DOD weapons                                                           |\n| systems. Concurrent                                                   |\n| servicing contributes greatly                                         |\n| to the accomplishment of                                              |\n| this mission. However, concurrent ser-                                |\n| vicing should be limited to \"as                                       |\n| required occasions\" (i.e., autho-                                     |\n| rized ground time precludes separate servicing). Efforts should be    |\n| made to perform separate servicing at flight originating stations     |\n| and                                                                   |\n| at                                                                    |\n| intransit                                                             |\n| stations when                                                         |\n| flights                                                               |\n| are                                                                   |\n| operating                                                             |\n| ahead                                                                 |\n| of                                                                    |\n| schedule.                                                             |\n| This checklist provides,                                              |\n| in abbreviated form, procedures for con-                              |\n| current servicing of commercial \"cargo only\" aircraft, contracted     |\n| to                                                                    |\n| the Air                                                               |\n| Force Logistics Airlift                                               |\n| (LOGAIR)                                                              |\n| and                                                                   |\n| the Navy's                                                            |\n| QUICKTRANS systems. It                                                |\n| is for use when performing concurrent                                 |\n| servicing on Military installations only. Applicable aircraft are the |\n| Lockheed Hercules C-130                                               |\n| (L-100), Lockheed Electra                                             |\n| (L-188),                                                              |\n| Douglas DC-9, and the Boeing 727. The checklist                       |\n| is a \"step-by-                                                        |\n| step\" guide to ensure accomplishment of selected tasks. The intent    |\n| of                                                                    |\n| the checklist                                                         |\n| is to eliminate the probability of a step omission                    |\n| in the accomplishment of an intended task. The procedures con-        |\n| tained herein are presented in the shortest, practical                |\n| form for use                                                          |\n| by qualified personnel and are not                                    |\n| intended to provide full                                              |\n| techni-                                                               |\n| cal                                                                   |\n| instructions. The requirements of                                     |\n| this checklist must be ad-                                            |\n| hered to when the concurrent servicing of applicable commercial       |\n| aircraft                                                              |\n| is accomplished on the Air Force installation.                        |\n| Concurrent servicing of these aircraft at non-military installations, |\n| when in the performance of QUICKTRANS contracts,                      |\n| is gov-                                                               |\n| erned and conducted under separate authority. Concurrent servic-      |\n| ing is the servicing of                                               |\n| fuel simultaneous with the performance of                             |\n| cargo off/onloading operations, power off nonfuel systems main-       |\n| tenance,                                                              |\n| inspections, or fleet                                                 |\n| service. This checklist contains                                      |\n| the                                                                   |\n| steps                                                                 |\n| necessary                                                             |\n| for                                                                   |\n| preparation                                                           |\n| and                                                                   |\n| performance                                                           |\n| of                                                                    |\n| concurrent                                                            |\n| servicing. All steps are applicable to all aforementioned LOGAIR/     |\n| QUICKTRANS aircraft unless so noted. It                               |\n| is the responsibility of                                              |\n| all                                                                   |\n| involved functional managers to ensure that personnel partici-        |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 1,
+      "asset_id": "tbl_TO 00-25-172CL-2_p1_4f62e3a8",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_table_tbl_TO 00-25-172CL-2_p2_a0298e6d",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-2, PAGE 3\n\n| 0                                              |\n|:-----------------------------------------------|\n| The following support equipment                |\n| is required to follow the proce-               |\n| dures set                                      |\n| forth in this checklist:                       |\n| Electrical Generator Unit,                     |\n| if                                             |\n| required                                       |\n| Material Handling Equipment                    |\n| Grounding and Bonding Wires (as required)      |\n| Fire Extinguisher, 150-lb Halon, or equivalent |\n| Vest with CSS Lettering                        |\n| CFR Vehicle (when an emergency is declared)    |\n| Stairs or Ladder                               |\n| (provided by LOGAIR/QUICKTRANS Con-            |\n| tractor)                                       |\n| Maintenance Stands (as required)               |\n| Straight Nozzle(s)                             |\n| for Underwing Servicing                        |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 2,
+      "asset_id": "tbl_TO 00-25-172CL-2_p2_a0298e6d",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_table_tbl_TO 00-25-172CL-2_p2_6c5abde6",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-2, PAGE 3\n\n| 0                                         |\n|:------------------------------------------|\n| Maintenance Stands (as required)          |\n| Straight Nozzle(s)                        |\n| for Underwing Servicing                   |\n| 3                                         |\n| ABBREVIATIONS USED.                       |\n| ATM                                       |\n| Air Terminal Manager                      |\n| CFR                                       |\n| Crash/Fire/Rescue Vehicle                 |\n| CSS                                       |\n| Chief Servicing Supervisor                |\n| FSSZ                                      |\n| Fuel Servicing Safety Zone (Defined as an |\n| area extending 50 feet from pressurized   |\n| fuel servicing components and 25 feet     |\n| from aircraft fuel vent outlets.)         |\n| MHE                                       |\n| Material Handling Equipment (25K-         |\n| and/or 40K-                               |\n| loaders, forklifts,                       |\n| tugs, etc.)                               |\n| LVM                                       |\n| Left-Wing Vent Monitor (relevant          |\n| to fac-                                   |\n| ing same direction as the aircraft)       |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 2,
+      "asset_id": "tbl_TO 00-25-172CL-2_p2_6c5abde6",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_table_tbl_TO 00-25-172CL-2_p3_cec6c5fc",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-2, PAGE 4\n\n| 0   | 1                                           |\n|:----|:--------------------------------------------|\n| 4   | PERSONNEL AND PERSONNEL LOCATIONS.          |\n|     | CSS                                         |\n|     | Stationed at                                |\n|     | the nose of the aircraft.                   |\n|     | RVM                                         |\n|     | CSS stationed at nose of aircraft. Monitors |\n|     | right-wing vent. Moves as required.         |\n|     | LVM                                         |\n|     | Stationed at                                |\n|     | left-wing vent.                             |\n|     | REO                                         |\n|     | Stationed at refueling equipment unit.      |\n|     | Air Freight                                 |\n|     | Stationed at cargo areas as required.       |\n|     | Personnel                                   |\n|     | MHE Op-                                     |\n|     | Stationed on/in MHE. Operates MHE to/from   |\n|     | erators                                     |\n|     | aircraft as required.                       |\n|     | SCR                                         |\n|     | Stationed at                                |\n|     | the refueling control panel and             |\n|     | SPR nozzle connection. This duty can be     |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 3,
+      "asset_id": "tbl_TO 00-25-172CL-2_p3_cec6c5fc",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_table_tbl_TO 00-25-172CL-2_p3_105d1aa4",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-2, PAGE 4\n\n| 0                                                           | 1                                       |\n|:------------------------------------------------------------|:----------------------------------------|\n|                                                             | allowing the SCR to position himself as |\n| required.                                                   |                                         |\n|                                                             | NOTE                                    |\n| The CSS will wear a reflective vest with letters CSS on     |                                         |\n| front and back. Letters will be at least 6 inches in height |                                         |\n| and 4 inches wide, and of reflective material. Reflective   |                                         |\n| material used must be at                                    | least 1 inch wide. NSN 8415-            |\n| 00-177-4974 satisfies this reflective vest requirement.     |                                         |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 3,
+      "asset_id": "tbl_TO 00-25-172CL-2_p3_105d1aa4",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_table_tbl_TO 00-25-172CL-2_p4_719e15bd",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-2, PAGE 5\n\n| 0                                                                   | 1                                   |\n|:--------------------------------------------------------------------|:------------------------------------|\n|                                                                     | CHAPTER 1                           |\n|                                                                     | CONCURRENT SERVICING                |\n| AIR FORCE REFUELING TEAM.                                           |                                     |\n| The Air Force Refueling Team will consist of one CSS, one REO,      |                                     |\n| and one LVM. Additionally,                                          | the SCR or                          |\n|                                                                     | a designated qualified              |\n| representative will be present during fueling operations. These are |                                     |\n| minimum requirements. Additional personnel are optional.            |                                     |\n| AUTHORITY.                                                          |                                     |\n| THE CSS                                                             | SHALL HAVE FULL AND FINAL AUTHORITY |\n| OVER ALL PARTICIPATING PERSONNEL AND PHASES OF                      |                                     |\n| THE CONCURRENT SERVICING OPERATION WITH THE                         |                                     |\n| EXCEPTION OF DEPLOYMENT AND CONTROL OF CFR                          |                                     |\n| VEHICLE AND PERSONNEL.                                              |                                     |\n| ON ARRIVAL OF THE AIRCRAFT.                                         |                                     |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 4,
+      "asset_id": "tbl_TO 00-25-172CL-2_p4_719e15bd",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_table_tbl_TO 00-25-172CL-2_p5_d9e41522",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-2, PAGE 6\n\n| 0                | 1                                                  |\n|:-----------------|:---------------------------------------------------|\n| TO 00-25-172CL-2 |                                                    |\n| (d)              | If any unfamiliar system characteristics or defi-  |\n|                  | ciencies exist.                                    |\n| (e)              | Fuel jettison system was not used. If it was used, |\n|                  | no concurrent refueling until position of jettison |\n|                  | valves is verified.                                |\n| (f)              | Timing of any maintenance required, cargo off/     |\n|                  | onloading, and any other                           |\n|                  | function that                                      |\n|                  | requires                                           |\n|                  | personnel or equipment movement into or within     |\n|                  | the concurrent servicing area.                     |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 5,
+      "asset_id": "tbl_TO 00-25-172CL-2_p5_d9e41522",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_table_tbl_TO 00-25-172CL-2_p5_d13fadd6",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-2, PAGE 6\n\n| 0                                                          |\n|:-----------------------------------------------------------|\n| (2)                                                        |\n| Ensure aircraft                                            |\n| is bonded to refueling equipment.                          |\n| Ground Power Unit                                          |\n| (GPU) must be positioned 50 feet                           |\n| minimum,                                                   |\n| and to the maximum extent of                               |\n| the power                                                  |\n| cable,                                                     |\n| preferably                                                 |\n| upwind                                                     |\n| of                                                         |\n| fuel                                                       |\n| servicing                                                  |\n| area,                                                      |\n| and                                                        |\n| within 45 degrees either side of aircraft nose. If a GPU   |\n| is not available and if carrier's manual                   |\n| so authorizes,                                             |\n| aircraft Auxiliary Power Unit                              |\n| (APU) may be used dur-                                     |\n| ing refueling. If APU is used during refueling, fuel truck |\n| must be positioned 50 feet                                 |\n| from the APU exhaust out-                                  |\n| let.                                                       |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 5,
+      "asset_id": "tbl_TO 00-25-172CL-2_p5_d13fadd6",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_table_tbl_TO 00-25-172CL-2_p6_abe01545",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-2, PAGE 7\n\n| 0                     | 1                                                             |\n|:----------------------|:--------------------------------------------------------------|\n| a. Meet with aircraft | loading supervisor                                            |\n|                       | to determine, define,                                         |\n|                       | or ensure air freight personnel and MHE operators are aware   |\n|                       | of the total requirements of concurrent servicing. Individual |\n| requirements are:     |                                                               |\n| (1)                   | Report to the CSS any condition that might jeopardize         |\n|                       | safety.                                                       |\n| (2)                   | Coordinate                                                    |\n|                       | any                                                           |\n|                       | unusual                                                       |\n|                       | off/onloading                                                 |\n|                       | requirement:                                                  |\n|                       | i.e., C5A engine, other outsize cargo, etc.                   |\n| (3)                   | Only personnel authorized by the CSS are permitted            |\n|                       | in the concurrent servicing area.                             |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 6,
+      "asset_id": "tbl_TO 00-25-172CL-2_p6_abe01545",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_table_tbl_TO 00-25-172CL-2_p6_03142df7",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-2, PAGE 7\n\n| 0                                                         | 1                                 |\n|:----------------------------------------------------------|:----------------------------------|\n|                                                           | in the concurrent servicing area. |\n| The 25K- or 40K-loader open-flame heater will not be      |                                   |\n| used in the FSSZ.                                         |                                   |\n|                                                           | NOTE                              |\n| Tandem use of K-loaders or K-loader/forklift combina-     |                                   |\n| tion is not authorized in the off/on loading of side door |                                   |\n| aircraft                                                  | (L-188, DC-9, B-727).             |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 6,
+      "asset_id": "tbl_TO 00-25-172CL-2_p6_03142df7",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_table_tbl_TO 00-25-172CL-2_p7_f2fb5199",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-2, PAGE 8\n\n| 0                                                             |\n|:--------------------------------------------------------------|\n| ensure refueling team members are briefed of                  |\n| their duties                                                  |\n| and responsibilities during refueling operations. Duties are: |\n| (1)                                                           |\n| CSS:                                                          |\n| (a)                                                           |\n| Responsible for overall concurrent operations to              |\n| include safety.                                               |\n| (b)                                                           |\n| Act as RVM.                                                   |\n| (2)                                                           |\n| REO:                                                          |\n| (a)                                                           |\n| Operate                                                       |\n| refueling                                                     |\n| equipment                                                     |\n| controls                                                      |\n| as                                                            |\n| re-                                                           |\n| quired.                                                       |\n| (b)                                                           |\n| Operate the deadman control.                                  |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 7,
+      "asset_id": "tbl_TO 00-25-172CL-2_p7_f2fb5199",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_table_tbl_TO 00-25-172CL-2_p8_5599ae00",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-2, PAGE 9\n\n| 0                                         | 1                                                        |\n|:------------------------------------------|:---------------------------------------------------------|\n|                                           | TO 00-25-172CL-2                                         |\n| (3)                                       | Initiate emergency evacuation of aircraft as necessary.  |\n| (4)                                       | If situation/hazard warrants, notify fire department and |\n|                                           | turn operation over                                      |\n|                                           | to crash/fire/rescue personnel.                          |\n| (5)                                       | Assist CFR personnel as required.                        |\n| d. Ensure Fire Department                 | is notified at                                           |\n|                                           | least 15 minutes be-                                     |\n|                                           | fore starting concurrent servicing operations.           |\n| FUEL TRANSFER PHASE OF CONCURRENT SERVIC- |                                                          |\n|                                           | 1-5                                                      |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 8,
+      "asset_id": "tbl_TO 00-25-172CL-2_p8_5599ae00",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_table_tbl_TO 00-25-172CL-2_p9_6de475b7",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-2, PAGE 10\n\n| 0   | 1                                                    |\n|:----|:-----------------------------------------------------|\n| \u2022   |                                                      |\n|     | Oxygen servicing shall not be done concurrently with |\n|     | fuel servicing operations.                           |\n| \u2022   |                                                      |\n|     | Maintenance and repair of aircraft electrical,       |\n|     | radio,                                               |\n|     | radar,                                               |\n|     | fuel or other systems requiring use of electri-      |\n|     | cal power, shall not be accomplished during fueling  |\n|     | operations.                                          |\n|     | In addition,                                         |\n|     | lines                                                |\n|     | containing flammable                                 |\n|     | liquids shall not be opened.                         |\n| \u2022   |                                                      |\n|     | All                                                  |\n|     | normal                                               |\n|     | aircraft                                             |\n|     | electrical                                           |\n|     | systems may                                          |\n|     | remain                                               |\n|     | powered; however, only those                         |\n|     | aircraft                                             |\n|     | switches                                             |\n|     | re-                                                  |\n|     | quired                                               |\n|     | for                                                  |\n|     | concurrent                                           |\n|     | servicing                                            |\n|     | operations will                                      |\n|     | be                                                   |\n|     | operated.                                            |\n|     | Inertial Navigational Systems                        |\n|     | (INS) may                                            |\n|     | remain energized.                                    |\n| \u2022   |                                                      |\n|     | A malfunction of any component of                    |\n|     | the fueling sys-                                     |\n|     | tem will                                             |\n|     | require an immediate shut down of                    |\n|     | the fu-                                              |\n|     | eling operation until                                |\n|     | the defect                                           |\n|     | is repaired.                                         |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 9,
+      "asset_id": "tbl_TO 00-25-172CL-2_p9_6de475b7",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_table_tbl_TO 00-25-172CL-2_p9_81f8d995",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-2, PAGE 10\n\n| 0                                                       | 1                                 | 2                |\n|:--------------------------------------------------------|:----------------------------------|:-----------------|\n|                                                         | eling operation until             | is repaired.     |\n|                                                         | the defect                        |                  |\n| AR ground power units will be connected prior to start- |                                   |                  |\n| ing fuel                                                | servicing. Equipment              | remain connected |\n|                                                         | shall                             |                  |\n| until                                                   | the fuel servicing is terminated. |                  |\n|                                                         | NOTE                              |                  |\n| Portable                                                | or                                | equipment will   |\n|                                                         | truck-mounted                     | be               |\n|                                                         | radio                             |                  |\n| turned off and will not be operated when within 10 feet |                                   |                  |\n| of the aircraft fuel vent outlets.                      |                                   |                  |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 9,
+      "asset_id": "tbl_TO 00-25-172CL-2_p9_81f8d995",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_table_tbl_TO 00-25-172CL-2_p10_dd4adf7e",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-2, PAGE 11\n\n| 0                | 1                                                       |\n|:-----------------|:--------------------------------------------------------|\n|                  | TO 00-25-172CL-2                                        |\n|                  | clear of                                                |\n|                  | the concurrent servicing area prior                     |\n|                  | to begin-                                               |\n|                  | ning and during fuel                                    |\n|                  | servicing. The CSS will ensure                          |\n|                  | that                                                    |\n|                  | the minimum number of personnel remain on the           |\n|                  | aircraft during refueling. Also,                        |\n|                  | the CSS will have full                                  |\n|                  | and final authority over all phases of concurrent op-   |\n|                  | erations                                                |\n|                  | and over                                                |\n|                  | all participating personnel,                            |\n|                  | except                                                  |\n|                  | the deployment                                          |\n|                  | and control of                                          |\n|                  | the fire fighting and                                   |\n|                  | rescue units.                                           |\n| (2)              | Verify all wheel chocks and fire extinguisher are prop- |\n|                  | erly positioned and required grounding accomplished.    |\n| b. The SCR will: |                                                         |\n| (1)              | Remove cover                                            |\n|                  | from fuel nozzle and visually inspect                   |\n|                  | locking                                                 |\n|                  | pins/lugs                                               |\n|                  | and                                                     |\n|                  | seal                                                    |\n|                  | for                                                     |\n|                  | serviceability                                          |\n|                  | before                                                  |\n|                  | connecting to aircraft. The LVM will perform this task  |\n|                  | on DC-9 aircraft.                                       |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 10,
+      "asset_id": "tbl_TO 00-25-172CL-2_p10_dd4adf7e",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_table_tbl_TO 00-25-172CL-2_p10_f58b3803",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-2, PAGE 11\n\n| 0                                                          |\n|:-----------------------------------------------------------|\n| on DC-9 aircraft.                                          |\n| Prior                                                      |\n| to pressurizing the system,                                |\n| the SCR or his desig-                                      |\n| nated representative shall test the Aeroquip strainer cou- |\n| pling quick disconnect                                     |\n| locking device for positive en-                            |\n| gagement by physically pushing down on the lock ring       |\n| to ensure it                                               |\n| is properly seated and shall ensure the refu-              |\n| eling nozzle                                               |\n| is                                                         |\n| securely locked to the                                     |\n| aircraft by at-                                            |\n| tempting to remove the nozzle with the poppet valve in     |\n| the open position.                                         |\n| If                                                         |\n| refueling nozzle can be removed                            |\n| from aircraft with valve open,                             |\n| the refueling equipment                                    |\n| operator will be immediately notified to remove nozzle     |\n| from service. The LVM will perform this task on DC-9       |\n| aircraft.                                                  |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 10,
+      "asset_id": "tbl_TO 00-25-172CL-2_p10_f58b3803",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_table_tbl_TO 00-25-172CL-2_p11_3735fbca",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-2, PAGE 12\n\n| 0                | 1                                            |\n|:-----------------|:---------------------------------------------|\n| TO 00-25-172CL-2 |                                              |\n| (3)              | Set applicable tank refuel switches to open. |\n| (4)              | Either verbally or by prearranged signal,    |\n|                  | inform CSS                                   |\n|                  | ready for refueling.                         |\n| c. The CSS will: |                                              |\n| (1)              | Either verbally or by prearranged signal,    |\n|                  | inform all                                   |\n|                  | refueling team members the aircraft          |\n|                  | is ready for refu-                           |\n|                  | eling.                                       |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 11,
+      "asset_id": "tbl_TO 00-25-172CL-2_p11_3735fbca",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_table_tbl_TO 00-25-172CL-2_p12_3f9b4abc",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-2, PAGE 13\n\n| 0                                                      | 1             |\n|:-------------------------------------------------------|:--------------|\n| (3)                                                    |               |\n| Set all                                                |               |\n| fuel switches to close.                                |               |\n| The SCR must ensure that                               | stopped and   |\n| fuel flow has                                          |               |\n| hose                                                   | disconnecting |\n| is                                                     |               |\n| depressurize/evacuated                                 |               |\n| prior                                                  |               |\n| to                                                     |               |\n| nozzle from SPR adapter. Make sure nozzle handle is    |               |\n| closed prior to depressurizing hose. The LVM will per- |               |\n| form this task on DC-9 aircraft.                       |               |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 12,
+      "asset_id": "tbl_TO 00-25-172CL-2_p12_3f9b4abc",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_warning_warn_TO 00-25-172CL-2_p1_739ec9bc",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-2, PAGE 2\n\nNOTE: d. It is the responsibility of",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 1,
+      "asset_id": "warn_TO 00-25-172CL-2_p1_739ec9bc",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_warning_warn_TO 00-25-172CL-2_p2_8698d658",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-2, PAGE 3\n\nNOTE: Concurrent servicing of these aircraft at non-military",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 2,
+      "asset_id": "warn_TO 00-25-172CL-2_p2_8698d658",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_warning_warn_TO 00-25-172CL-2_p3_0a19e453",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-2, PAGE 4\n\nNOTE: The CSS will wear a reflective vest with letters CSS on",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 3,
+      "asset_id": "warn_TO 00-25-172CL-2_p3_0a19e453",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_warning_warn_TO 00-25-172CL-2_p6_e240fb48",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-2, PAGE 7\n\nNOTE: Tandem use of K-loaders or K-loader/forklift combina-",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 6,
+      "asset_id": "warn_TO 00-25-172CL-2_p6_e240fb48",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_warning_warn_TO 00-25-172CL-2_p7_0a87bd4e",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-2, PAGE 8\n\nNOTE: Underwing fuel servicing requires straight nozzle(s).\n(3)",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 7,
+      "asset_id": "warn_TO 00-25-172CL-2_p7_0a87bd4e",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_warning_warn_TO 00-25-172CL-2_p9_88b6a374",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-2, PAGE 10\n\nNOTE: Portable or truck-mounted radio equipment will be",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 9,
+      "asset_id": "warn_TO 00-25-172CL-2_p9_88b6a374",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_warning_warn_TO 00-25-172CL-2_p11_72cf4461",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-2, PAGE 12\n\nNOTE: Refueling will be accomplished in accordance with ap-",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 11,
+      "asset_id": "warn_TO 00-25-172CL-2_p11_72cf4461",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-2_warning_warn_TO 00-25-172CL-2_p12_bb8e480e",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-2, PAGE 13\n\nNOTE: Be sure SPR adapter cap is properly secured.\n(5)",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-2",
+      "to_number": "00-25-172CL-2",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 12,
+      "asset_id": "warn_TO 00-25-172CL-2_p12_bb8e480e",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  }
+]

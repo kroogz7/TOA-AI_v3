@@ -1,0 +1,782 @@
+[
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p0_ad855b49",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 1\n\n| 0                                                                                          | 1                                 | 2                                                 |\n|:-------------------------------------------------------------------------------------------|:----------------------------------|:--------------------------------------------------|\n|                                                                                            |                                   | TO 00-25-172CL-1                                  |\n|                                                                                            | TECHNICAL MANUAL                  |                                                   |\n|                                                                                            |                                   | CHECKLIST                                         |\n|                                                                                            | CONCURRENT FUEL                   |                                                   |\n|                                                                                            | SERVICING OF COMMERCIAL           |                                                   |\n|                                                                                            | CONTRACT CARGO AND                |                                                   |\n|                                                                                            | PASSENGER AIRCRAFT                |                                                   |\n|                                                                                            | APPLICABLE TO B-707, B-727,       |                                                   |\n|                                                                                            |                                   | B-737,                                            |\n|                                                                                            | B-747, B-757, B-767, B-777, DC-8, |                                                   |\n|                                                                                            | DC-9, DC-10, L-1011, MD-11,       |                                                   |\n|                                                                                            |                                   | MD-81,                                            |\n|                                                                                            | MD-82, MD-83, MD-88, MD-90, AND   |                                                   |\n|                                                                                            |                                   | AIRBUS                                            |\n|                                                                                            | A300/A310/A318/A319/A320/A321     |                                                   |\n|                                                                                            | /A330/A340/A380 AIRCRAFT          |                                                   |\n|                                                                                            |                                   | F09603-89-C-2904                                  |\n| DISTRIBUTION STATEMENT A - Approved for public release; distribution is unlimited. PA Case |                                   |                                                   |\n| Number 08-08061. Other                                                                     | requests for                      | this document shall be referred to 406 SCMS/GUEE, |\n| Robins AFB, GA 31098. Questions concerning technical content shall be referred to HQ AFMC/ |                                   |                                                   |\n| SE.                                                                                        |                                   |                                                   |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 0,
+      "asset_id": "tbl_TO 00-25-172CL-1_p0_ad855b49",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p1_2eb333ec",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 2\n\n| 0                       | 1                                                                                             | 2     | 3   | 4   | 5                 | 6   | 7                                | 8               | 9   | 10   | 11   | 12      | 13   | 14   | 15   | 16       | 17                      | 18    | 19   | 20   | 21   | 22                |\n|:------------------------|:----------------------------------------------------------------------------------------------|:------|:----|:----|:------------------|:----|:---------------------------------|:----------------|:----|:-----|:-----|:--------|:-----|:-----|:-----|:---------|:------------------------|:------|:-----|:-----|:-----|:------------------|\n| LIST OF EFFECTIVE PAGES |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n|                         | INSERT LATEST CHANGED PAGES. DESTROY SUPERSEDED PAGES.                                        |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| NOTE                    | The portion of                                                                                |       |     |     |                   |     | the text affected by the changes |                 |     |      |      |         |      |      |      | is       | indicated by a vertical |       |      |      |      | line in the outer |\n|                         | margin of the page. Changes to illustrations are indicated by shaded or screened areas, or by |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n|                         | miniature pointing hands.                                                                     |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| Dates of                | issue for original and changed pages are:                                                     |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| Original .              |                                                                                               | . 0.  |     | .   |                   | .   |                                  | .1 October 2016 |     |      |      |         |      |      |      | Change . | .                       | . 2 . | .    | .    | .    | . 29 July 2022    |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| Change .                |                                                                                               | . 1 . |     |     | . 8 December 2021 |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n|                         | TOTAL NUMBER OF PAGES IN THIS PUBLICATION IS 28, CON-                                         |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n|                         | SISTING OF THE FOLLOWING:                                                                     |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| Page                    |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      | *Change |      |      |      | Page     |                         |       |      |      |      | *Change           |\n| No.                     |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      | No.  |      | No.      |                         |       |      |      |      | No.               |\n| Title .                 | .                                                                                             | .     | .   |     | .                 |     | .                                | .               | .   | .    | .    | .       | .    | .    | . 2  |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| A.                      | .                                                                                             | .     |     | .   |                   | .   | .                                | .               | .   | .    | .    | .       | .    | .    | .2   |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| i .                     | .                                                                                             | .     | .   |     | .                 |     | .                                | .               | .   | .    | .    | .       | .    | .    | . 0  |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| ii Blank .              | .                                                                                             | .     | .   |     | .                 |     | .                                | .               | .   | .    | .    | .       | .    | .    | . 0  |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| iii                     | .                                                                                             | .     | .   |     | .                 |     | .                                | .               | .   | .    | .    | .       | .    | .    | . 1  |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| iv -                    | .                                                                                             | .     | .   |     | .                 |     | .                                | .               | .   | .    | .    | .       | .    | .    | . 0  |          |                         |       |      |      |      |                   |\n| viii .                  |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| 1-1 -                   | .                                                                                             | .     | .   |     | .                 |     | .                                | .               | .   | .    | .    | .       | .    | .    | . 1  |          |                         |       |      |      |      |                   |\n| 1-2 .                   |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| 1-3 -                   | .                                                                                             | .     | .   |     | .                 |     | .                                | .               | .   | .    | .    | .       | .    | .    | . 0  |          |                         |       |      |      |      |                   |\n| 1-4 .                   |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| 1-5 -                   | .                                                                                             | .     | .   |     | .                 |     | .                                | .               | .   | .    | .    | .       | .    | .    | . 1  |          |                         |       |      |      |      |                   |\n| 1-6 .                   |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n|                         | 1-6.1 Added .                                                                                 | .     |     | .   | .                 |     | .                                | .               | .   | .    | .    | .       | .    | .    | . 1  |          |                         |       |      |      |      |                   |\n|                         | 1-6.2 Blank .                                                                                 | .     | .   |     | .                 |     | .                                | .               | .   | .    | .    | .       | .    | .    | . 1  |          |                         |       |      |      |      |                   |\n| 1-7 -                   | .                                                                                             | .     | .   |     | .                 |     | .                                | .               | .   | .    | .    | .       | .    | .    | . 0  |          |                         |       |      |      |      |                   |\n| 1-9 .                   |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| 1-10 .                  | .                                                                                             | .     | .   |     | .                 |     | .                                | .               | .   | .    | .    | .       | .    | .    | . 2  |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n| .                       |                                                                                               |       |     |     |                   |     |                                  |                 |     |      |      |         |      |      |      |          |                         |       |      |      |      |                   |\n|                         | 1-10.1 Added .                                                                                |       | .   |     | .                 |     | .                                | .               | .   | .    | .    | .       | .    | .    | . 2  |          |                         |       |      |      |      |                   |\n|                         | 1-10.2 Blank .                                                                                |       | .   |     | .                 |     | .                                | .               | .   | .    | .    | .       | .    | .    | . 2  |          |                         |       |      |      |      |                   |\n| 1-11 -                  | 1-14 .                                                                                        | .     | .   |     | .                 |     | .                                | .               | .   | .    | .    | .       | .    | .    | . 0  |          |                         |       |      |      |      |                   |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 1,
+      "asset_id": "tbl_TO 00-25-172CL-1_p1_2eb333ec",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p2_4a47e3ec",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 3\n\n| 0                                    | 1                | 2   | 3            | 4   | 5    |\n|:-------------------------------------|:-----------------|:----|:-------------|:----|:-----|\n|                                      | TO 00-25-172CL-1 |     |              |     |      |\n| TABLE OF CONTENTS                    |                  |     |              |     |      |\n| Chapter                              |                  |     |              |     | Page |\n| FOREWORD .                           | .                | .   | .            | .   | iii  |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| SAFETY SUMMARY .                     | .                | .   | .            | .   | vii  |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| 1                                    |                  |     |              |     |      |\n| SUPPORT EQUIPMENT FOR CONCURRENT RE- |                  |     |              |     |      |\n| FUELING OPERATIONS.                  | .                | .   | .            | .   | 1-1  |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| 1.1                                  |                  |     |              |     |      |\n| PERSONNEL AND PERSONNEL              |                  |     |              |     |      |\n| LOCATIONS.                           | .                | .   | .            | .   | 1-1  |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n| .                                    |                  |     |              |     |      |\n|                                      |                  |     | i/(ii blank) |     |      |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 2,
+      "asset_id": "tbl_TO 00-25-172CL-1_p2_4a47e3ec",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p3_6a3b4de0",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 4\n\n| 0                                                                           |\n|:----------------------------------------------------------------------------|\n| FOREWORD                                                                    |\n| 1                                                                           |\n| GENERAL.                                                                    |\n| This checklist provides,                                                    |\n| in abbreviated form, procedures                                             |\n| for concurrent                                                              |\n| fuel servicing of commercial contract cargo and passenger aircraft          |\n| (with                                                                       |\n| or without passengers on board). The items in this checklist preceded by    |\n| an asterisk will be used for concurrent                                     |\n| fuel servicing cargo aircraft and                                           |\n| aircraft without passengers on board. The intent of                         |\n| this checklist                                                              |\n| is                                                                          |\n| to                                                                          |\n| eliminate the probability of the omission of a step in the accomplishment   |\n| of an intended task. The procedures contained herein are presented in the   |\n| shortest practical form for use by qualified personnel and are not intended |\n| to provide full                                                             |\n| technical                                                                   |\n| instructions.                                                               |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 3,
+      "asset_id": "tbl_TO 00-25-172CL-1_p3_6a3b4de0",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p3_75eee6d7",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 4\n\n| 0                                                                           |\n|:----------------------------------------------------------------------------|\n| shortest practical form for use by qualified personnel and are not intended |\n| to provide full                                                             |\n| technical                                                                   |\n| instructions.                                                               |\n| NOTE                                                                        |\n| On C/KC-135                                                                 |\n| (all models), MAF and Commercial                                            |\n| aircraft,                                                                   |\n| concurrent                                                                  |\n| servicing                                                                   |\n| SSEA is                                                                     |\n| not                                                                         |\n| required                                                                    |\n| unless                                                                      |\n| loading/                                                                    |\n| downloading munitions or explosives, OR servicing LOX while                 |\n| performing maintenance.                                                     |\n| If none of                                                                  |\n| the above apply, simulta-                                                   |\n| neous                                                                       |\n| servicing of                                                                |\n| fuel while                                                                  |\n| loading passengers                                                          |\n| and cargo,                                                                  |\n| performing maintenance, aircrew members performing inspec-                  |\n| tions, or operating aircraft systems is considered to be a normal           |\n| CONCURRENT                                                                  |\n| servicing                                                                   |\n| operation.                                                                  |\n| Restrictions                                                                |\n| listed                                                                      |\n| in                                                                          |\n| Paragraph 5.6 and Paragraph 5.7 still apply.                                |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 3,
+      "asset_id": "tbl_TO 00-25-172CL-1_p3_75eee6d7",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p4_b2751fe7",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 5\n\n| 0                                                                        |\n|:-------------------------------------------------------------------------|\n| TO 00-25-172CL-1                                                         |\n| tained in TO 00-25-172. It                                               |\n| is the responsibility of all                                             |\n| involved functional                                                      |\n| managers to make sure personnel participating in the operation are thor- |\n| oughly trained in these procedures.                                      |\n| 4                                                                        |\n| ABBREVIATIONS.                                                           |\n| All abbreviations used in this manual are shown in the list of abbrevia- |\n| tions below. Standard abbreviations are in accordance with ASME Y14.38,  |\n| Abbreviations and Acronyms                                               |\n| for Use on Drawings and Related Docu-                                    |\n| ments.                                                                   |\n| AF                                                                       |\n| Air Force                                                                |\n| AFTO                                                                     |\n| Air Force Technical Order                                                |\n| AIS                                                                      |\n| Aircraft Interior Supervisor                                             |\n| ARFF                                                                     |\n| Aircraft Rescue and Fire Fighting                                        |\n| CONCOR                                                                   |\n| Contract Coordinator                                                     |\n| CSS                                                                      |\n| Chief Servicing Supervisor                                               |\n| FSSZ                                                                     |\n| Fuel Servicing Safety Zone                                               |\n| GPU                                                                      |\n| Ground Power Unit                                                        |\n| PSI                                                                      |\n| Pounds per Square Inch                                                   |\n| RAT                                                                      |\n| Ram Air Turbine                                                          |\n| REO                                                                      |\n| Refueling Equipment Operator                                             |\n| SCR                                                                      |\n| Supervisory Contractor Representative                                    |\n| SPR                                                                      |\n| Single Point Receptacle                                                  |\n| TO                                                                       |\n| Technical Order                                                          |\n| WVM                                                                      |\n| Wing Vent Monitor                                                        |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 4,
+      "asset_id": "tbl_TO 00-25-172CL-1_p4_b2751fe7",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p4_6f56039f",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 5\n\n| 0                                                           |\n|:------------------------------------------------------------|\n| RELATED PUBLICATIONS.                                       |\n| NOTE                                                        |\n| When                                                        |\n| searching Technical Order                                   |\n| (TO)                                                        |\n| numbers                                                     |\n| in                                                          |\n| the En-                                                     |\n| hanced Technical                                            |\n| Information Management System (ETIMS)                       |\n| catalog, please use                                         |\n| the wildcard (*)                                            |\n| after                                                       |\n| typing in the TO                                            |\n| number. Many TOs                                            |\n| are not                                                     |\n| available                                                   |\n| in paper                                                    |\n| format,                                                     |\n| (i.e.,                                                      |\n| digital (WA-1) or Compact Disk (CD-1)). This ensures TOs in |\n| all media formats will populate the search.                 |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 4,
+      "asset_id": "tbl_TO 00-25-172CL-1_p4_6f56039f",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p5_cb34affb",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 6\n\n| 0                                                | 1                               |\n|:-------------------------------------------------|:--------------------------------|\n|                                                  | List of Related Publications    |\n| Number                                           | Title                           |\n| ASME Y14.38                                      | Abbreviations and Acronyms for  |\n|                                                  | Use on Drawings and Related     |\n|                                                  | Documents                       |\n| DODI 5330.03_AFI 33-395 Defense Logistics Agency |                                 |\n|                                                  | (DLA) Document Services         |\n| TO 00-5-1                                        | AF Technical Order System       |\n| TO 00-25-172                                     | Ground Servicing of Aircraft    |\n|                                                  | and Static Grounding/Bonding    |\n| TO 00-25-234                                     | General Shop Practice Require-  |\n|                                                  | ments for                       |\n|                                                  | the Repair, Mainte-             |\n|                                                  | nance, and Test of Electrical   |\n|                                                  | Equipment                       |\n| TO 36-1-191                                      | Technical and Managerial Refer- |\n|                                                  | ence for Motor Vehicle Main-    |\n|                                                  | tenance                         |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 5,
+      "asset_id": "tbl_TO 00-25-172CL-1_p5_cb34affb",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p6_c159fd34",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 7\n\n| 0                                                                       |\n|:------------------------------------------------------------------------|\n| TO 00-25-172CL-1                                                        |\n| 7                                                                       |\n| HARDNESS CRITICAL ITEMS (HCI).                                          |\n| The HCI symbol                                                          |\n| (                                                                       |\n| ) establishes special                                                   |\n| requirements limit-                                                     |\n| ing changes and substitutions and that                                  |\n| the specific parts listed                                               |\n| must be used to ensure hardness is not degraded.                        |\n| If                                                                      |\n| included,                                                               |\n| items with nuclear                                                      |\n| survivability requirements                                              |\n| are marked                                                              |\n| ). All changes to, or proposed substitutions of,                        |\n| with the HCI symbol (                                                   |\n| HCIs must be approved by the acquiring activity.                        |\n| ELECTROSTATIC DISCHARGE SENSITIVE (ESDS)                                |\n| 8                                                                       |\n| ITEMS.                                                                  |\n| All ESDS parts shall be handled in accordance with the ESDS             |\n| device handling procedures in TO 00-25-234.                             |\n| If                                                                      |\n| included,                                                               |\n| items                                                                   |\n| containing ESDS parts                                                   |\n| are marked with the ESDS                                                |\n| ).                                                                      |\n| symbol                                                                  |\n| (                                                                       |\n| 9                                                                       |\n| CHANGE RECOMMENDATIONS.                                                 |\n| Recommendations proposing changes to this technical order shall be sub- |\n| mitted on an Air Force Technical Order                                  |\n| (AFTO) Form 22 in accordance                                            |\n| with TO 00-5-1. Forward completed AFTO Form 22 to the Technical         |\n| Order Management Agency (TOMA) at: robins.ce.afto22@us.af.mil.          |\n| vi                                                                      |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 6,
+      "asset_id": "tbl_TO 00-25-172CL-1_p6_c159fd34",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p7_8dec8e4b",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 8\n\n| 0                                                                       |\n|:------------------------------------------------------------------------|\n| SAFETY SUMMARY                                                          |\n| 1                                                                       |\n| GENERAL SAFETY INSTRUCTIONS.                                            |\n| This manual describes physical                                          |\n| and/or                                                                  |\n| chemical processes which may                                            |\n| cause injury or death to personnel, or damage to equipment,             |\n| if not prop-                                                            |\n| erly followed. This                                                     |\n| safety summary includes general                                         |\n| safety precautions                                                      |\n| and instructions                                                        |\n| that must be understood and applied during operation                    |\n| and maintenance to ensure personnel safety and protection of equipment. |\n| Prior to performing any specific task,                                  |\n| the WARNINGs, CAUTIONs, and                                             |\n| NOTEs included in that                                                  |\n| task shall be reviewed and understood.                                  |\n| 2                                                                       |\n| WARNINGS, CAUTIONS, AND NOTES.                                          |\n| WARNINGs and CAUTIONs are used in this manual                           |\n| to highlight oper-                                                      |\n| ating                                                                   |\n| or maintenance                                                          |\n| procedures,                                                             |\n| practices,                                                              |\n| conditions,                                                             |\n| or                                                                      |\n| statements                                                              |\n| which are considered essential                                          |\n| to protection of personnel (WARNING) or                                 |\n| equipment                                                               |\n| (CAUTION). WARNINGs and CAUTIONs immediately pre-                       |\n| cede the step or procedure to which they apply. WARNINGs and CAU-       |\n| TIONs consist of                                                        |\n| four parts: heading (WARNING, CAUTION, or                               |\n| icon),                                                                  |\n| a statement of                                                          |\n| the hazard, minimum precautions, and possible results if                |\n| disregarded. NOTEs                                                      |\n| are used in this manual                                                 |\n| to highlight operating or                                               |\n| maintenance procedures, practices, conditions, or                       |\n| statements which are                                                    |\n| not essential                                                           |\n| to protection of personnel or equipment. NOTEs may pre-                 |\n| cede or follow the step or procedure, depending upon the information to |\n| be highlighted. The headings used and their definitions are as follows: |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 7,
+      "asset_id": "tbl_TO 00-25-172CL-1_p7_8dec8e4b",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p8_b9ff62ef",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 9\n\n| 0                        | 1                                 | 2         | 3                                          | 4                  | 5            |\n|:-------------------------|:----------------------------------|:----------|:-------------------------------------------|:-------------------|:-------------|\n| Highlights               | an                                | essential | operating                                  | or maintenance     | procedure,   |\n| practice,                | condition,                        |           | statement,                                 | etc., which if not | strictly ob- |\n|                          | served, could result              |           | in damage to, or destruction of, equipment |                    |              |\n|                          | or loss of mission effectiveness. |           |                                            |                    |              |\n|                          |                                   |           | NOTE                                       |                    |              |\n| Highlights               | an                                | essential | operating                                  | or maintenance     | procedure,   |\n| condition, or statement. |                                   |           |                                            |                    |              |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 8,
+      "asset_id": "tbl_TO 00-25-172CL-1_p8_b9ff62ef",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p9_d002c63b",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 10\n\n| 0                                                                        |\n|:-------------------------------------------------------------------------|\n| CHAPTER 1                                                                |\n| SUPPORT EQUIPMENT FOR CONCURRENT                                         |\n| REFUELING OPERATIONS                                                     |\n| The following support equipment                                          |\n| is required to follow the procedures                                     |\n| set                                                                      |\n| forth in this checklist.                                                 |\n| \u2022 Electrical Generator Unit,                                             |\n| if                                                                       |\n| required.                                                                |\n| \u2022 Aviation Hydrant Servicers (with passengers on board) or R5/R9/R11     |\n| refuelers with deadman controls and non-collapsible fuel servicing hose. |\n| Ground and Bonding Wires (as required).                                  |\n| \u2022 Ground and Bonding Wires (as required).                                |\n| \u2022 Intercom Headsets, Contractor Supplied - A minimum of three (except    |\n| B-757/767/777 aircraft which requires only two) for Air Force use with   |\n| passengers on board (one 100-foot and two 50-foot or longer cords) and   |\n| one for the contractor fuel control panel operator                       |\n| (four total). A                                                          |\n| minimum of                                                               |\n| two for Air Force use on non-passenger aircraft (one                     |\n| 100-foot and one 50-foot or                                              |\n| longer cords) and one for                                                |\n| the contractor                                                           |\n| fuel control panel operator (three total). If don't have access to       |\n| commercial communication cords and headsets, hand held intrinsically     |\n| safe radios should be used.                                              |\n| \u2022 Air Conditioner                                                        |\n| (if                                                                      |\n| required).                                                               |\n| \u2022 Fire Extinguisher, 150-pounds Halon, or equivalent.                    |\n| \u2022 Vest with Chief Servicing Supervisor                                   |\n| (CSS) Lettering.                                                         |\n| \u2022 Aircraft Rescue and Fire Fighting (ARFF) Vehicle (required only        |\n| when servicing with JP-4 or Jet B fuel and passengers are on board).     |\n| \u2022 Passenger Handling Equipment.                                          |\n| \u2022 Ramp and Stairs (as required).                                         |\n| \u2022 Baggage Handling Equipment                                             |\n| (as required).                                                           |\n| \u2022 Fleet Servicing and Catering Equipment (as required).                  |\n| \u2022 Maintenance Stands.                                                    |\n| \u2022 Cargo Handling Equipment.                                              |\n| 1.1                                                                      |\n| PERSONNEL AND PERSONNEL LOCATIONS.                                       |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 9,
+      "asset_id": "tbl_TO 00-25-172CL-1_p9_d002c63b",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p10_0c17c408",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 11\n\n| 0                  | 1                                      |\n|:-------------------|:---------------------------------------|\n| TO 00-25-172CL-1   |                                        |\n|                    | (One individual can monitor both fuel  |\n|                    | vents/SPR's on cargo aircraft and when |\n|                    | passengers are not on board).          |\n| *Refueling Equip-  | Stationed at                           |\n|                    | refueling equipment unit.              |\n| ment Operator      |                                        |\n| (REO)              |                                        |\n| Transportation     | Passenger and baggage/cargo areas as   |\n|                    | required.                              |\n| Contract Coordina- | Passenger and cabin area as required.  |\n| tor (CONCOR)       |                                        |\n| Aircraft           | Stationed in the cockpit of B-757/767/ |\n| Interior           |                                        |\n| Supervisor         | 777 aircraft                           |\n| (AIS)              | to maintain voice contact              |\n|                    | with the CSS and to alert personnel    |\n|                    | remaining in the cabin area in case of |\n|                    | emergencies.                           |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 10,
+      "asset_id": "tbl_TO 00-25-172CL-1_p10_0c17c408",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p10_25b9904d",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 11\n\n| 0                                                          |\n|:-----------------------------------------------------------|\n| remaining in the cabin area in case of                     |\n| emergencies.                                               |\n| NOTE                                                       |\n| When fuel servicing with government-provided fuel on a     |\n| United States Air Force (or other)                         |\n| installation,                                              |\n| the United                                                 |\n| States Air Force (or other service) shall                  |\n| furnish additional                                         |\n| personnel for monitoring each fuel nozzle connection where |\n| the number of personnel                                    |\n| required exceeds those specified in                        |\n| the contract.                                              |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 10,
+      "asset_id": "tbl_TO 00-25-172CL-1_p10_25b9904d",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p11_3ec1f5f3",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 12\n\n| 0                                                   | 1                                                                 | 2              |\n|:----------------------------------------------------|:------------------------------------------------------------------|:---------------|\n| flective material used must be at                   | least one inch wide.                                              |                |\n| a. The                                              | a CSS, SCR,                                                       | and, when fuel |\n| refueling team will                                 |                                                                   |                |\n| consist of                                          |                                                                   |                |\n|                                                     | servicing with passengers on board the aircraft, a passenger com- |                |\n| partment monitor.                                   |                                                                   |                |\n| b. THE CSS SHALL HAVE FULL AND FINAL AUTHORITY DUR- |                                                                   |                |\n|                                                     | ING ALL PHASES OF THE CONCURRENT SERVICING OP-                    |                |\n|                                                     | ERATION. RESPECTIVE TEAM CHIEFS FROM TRANSPOR-                    |                |\n| TATION,                                             | SERVICING, AND CATERING WILL                                      | BE             |\n| FLEET                                               |                                                                   |                |\n|                                                     | RESPONSIBLE TO THE CSS TO ENSURE THEIR PERSON-                    |                |\n|                                                     | NEL COMPLY WITH ALL REQUIRED PROCEDURES DUR-                      |                |\n|                                                     | ING THE CONCURRENT SERVICING OPERATION. THE DE-                   |                |\n|                                                     | PLOYMENT OF ARFF EQUIPMENT AND PERSONNEL WILL                     |                |\n|                                                     | BE UNDER THE CONTROL OF THE ON-SCENE FIRE CHIEF.                  |                |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 11,
+      "asset_id": "tbl_TO 00-25-172CL-1_p11_3ec1f5f3",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p12_5a4363c6",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 13\n\n| 0                                                                 |\n|:------------------------------------------------------------------|\n| Passengers may enter or exit                                      |\n| the aircraft during fuel servicing                                |\n| provided either: a jetway is used; or,                            |\n| if a mobile staircase or                                          |\n| aircraft                                                          |\n| integral stairs are used and the fuel servicing operation         |\n| is on the opposite side of the aircraft and the passengers do not |\n| come                                                              |\n| closer                                                            |\n| than 25 feet                                                      |\n| from any aircraft                                                 |\n| fuel vent outlet.                                                 |\n| Failure to comply could result                                    |\n| in injury to, or death of, person-                                |\n| nel or long term health hazards.                                  |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 12,
+      "asset_id": "tbl_TO 00-25-172CL-1_p12_5a4363c6",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p12_bc194e16",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 13\n\n| 0                                                              | 1                                                               |\n|:---------------------------------------------------------------|:----------------------------------------------------------------|\n| (a) *Status/condition of aircraft and its systems.             |                                                                 |\n| (b) *Specific servicing requirements.                          |                                                                 |\n| (c) *If any unfamiliar                                         | system characteristics or deficiencies                          |\n| exist.                                                         |                                                                 |\n| (d) *The duties and physical positioning of the carriers tech- |                                                                 |\n|                                                                | nical personnel during the concurrent servicing operation.      |\n| (e) *Timing                                                    | any maintenance                                                 |\n| of                                                             | required,                                                       |\n|                                                                | cargo/baggage                                                   |\n| loading/unloading, fleet                                       | servicing,                                                      |\n|                                                                | catering/food                                                   |\n|                                                                | service                                                         |\n| functions, and any other                                       | function that                                                   |\n|                                                                | requires personnel                                              |\n| or equipment movement within the FSSZ.                         |                                                                 |\n|                                                                | (f) *Verify that any civilian vehicles, such as catering trucks |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 12,
+      "asset_id": "tbl_TO 00-25-172CL-1_p12_bc194e16",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p13_3128b9fd",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 14\n\n| 0   | 1                                                                |\n|:----|:-----------------------------------------------------------------|\n|     | TO 00-25-172CL-1                                                 |\n|     | etc.,                                                            |\n|     | involved in the concurrent servicing operation meet              |\n|     | the requirements outlined in TO 36-1-191, pertaining to          |\n|     | authorizations                                                   |\n|     | for                                                              |\n|     | use                                                              |\n|     | in                                                               |\n|     | the                                                              |\n|     | FSSZ.                                                            |\n|     | Powered                                                          |\n|     | support                                                          |\n|     | equipment                                                        |\n|     | is allowed in the FSSZ as long as it                             |\n|     | is at                                                            |\n|     | least                                                            |\n|     | 25 feet                                                          |\n|     | from pressurized servicing components and fuel                   |\n|     | vent outlets. Vehicles not designed or approved for use          |\n|     | within a hazardous location may be moved into or within          |\n|     | the FSSZ,                                                        |\n|     | if pressurization of                                             |\n|     | the refueling equipment                                          |\n|     | is                                                               |\n|     | stopped. Repressurization of the refueling equipment will        |\n|     | not                                                              |\n|     | resume until                                                     |\n|     | the                                                              |\n|     | servicing vehicle's                                              |\n|     | engine                                                           |\n|     | is                                                               |\n|     | shut                                                             |\n|     | down while in the FSSZ, or the vehicle leaves the FSSZ.          |\n|     | (g) *Intercom headsets,                                          |\n|     | required to be furnished by the con-                             |\n|     | tractor, will be available. (Two sets, one with 100 and one      |\n|     | with 50 foot or longer cord for the use of military person-      |\n|     | nel and one set for contract carrier fuel control panel op-      |\n|     | erator,                                                          |\n|     | total of                                                         |\n|     | three each, except                                               |\n|     | for B-757/767/777 air-                                           |\n|     | craft which requires only two).                                  |\n|     | If don't have                                                    |\n|     | access                                                           |\n|     | to                                                               |\n|     | commercial communication cords and headsets, hand held           |\n|     | intrinsically safe radios should be used.                        |\n| (2) | *Brief each individual                                           |\n|     | team chief on their duties and respon-                           |\n|     | sibilities. They are responsible for briefing their personnel on |\n|     | the following requirements:                                      |\n|     | (a) *Report                                                      |\n|     | to the CSS any condition that might                              |\n|     | jeopardize                                                       |\n|     | safety.                                                          |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 13,
+      "asset_id": "tbl_TO 00-25-172CL-1_p13_3128b9fd",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p14_ceaf73b3",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 15\n\n| 0                                                               |\n|:----------------------------------------------------------------|\n| tion and turn operation over                                    |\n| to ARFF personnel.                                              |\n| (e) *Assist ARFF personnel as required.                         |\n| (4) Ensure                                                      |\n| the Fire Department                                             |\n| is notified at                                                  |\n| least 15 minutes                                                |\n| before starting concurrent servicing operations, and,           |\n| if person-                                                      |\n| nel are remaining on board the aircraft,                        |\n| informed of the num-                                            |\n| ber of people involved.                                         |\n| (5) Verify ARFF vehicle is present                              |\n| in the immediate area when                                      |\n| the aircraft                                                    |\n| is being serviced with JP-4 or Jet B fuel and when              |\n| passengers are on board. ARFF vehicle is not                    |\n| required when                                                   |\n| servicing is not with JP-4 or Jet B fuel or when passengers are |\n| not on board or                                                 |\n| for cargo aircraft. However, Fire Department                    |\n| should be notified of impending concurrent servicing.           |\n| (6)                                                             |\n| Fueling stops if ARFF is withdrawn.                             |\n| d. BEFORE COMMENCING OPERATIONS:                                |\n| (1)                                                             |\n| *The CSS will coordinate:                                       |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 14,
+      "asset_id": "tbl_TO 00-25-172CL-1_p14_ceaf73b3",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p15_4550fb1e",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 16\n\n| 0                                                |\n|:-------------------------------------------------|\n| *Ground Power Unit                               |\n| (GPU) must be positioned outside                 |\n| the                                              |\n| fuel servicing zone and when possible, uphill of |\n| the fuel ser-                                    |\n| vicing                                           |\n| area,                                            |\n| pressurized                                      |\n| fuel                                             |\n| servicing                                        |\n| equipment,                                       |\n| and                                              |\n| fuel                                             |\n| vents. Failure to comply could result            |\n| in damage to, or destruc-                        |\n| tion of, equipment or                            |\n| loss of mission effectiveness.                   |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 15,
+      "asset_id": "tbl_TO 00-25-172CL-1_p15_4550fb1e",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p16_5fafc924",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 17\n\n| 0   | 1                                                        |\n|:----|:---------------------------------------------------------|\n|     | (c) *Connection of                                       |\n|     | intercom headsets.                                       |\n|     | NOTE                                                     |\n| \u2022   |                                                          |\n|     | *The CSS will                                            |\n|     | remain in constant voice contact with per-               |\n|     | sonnel                                                   |\n|     | in the                                                   |\n|     | cockpit                                                  |\n|     | (when passengers, flight or ground                       |\n|     | crew members are on board), SPR/fuel vent monitor(s) and |\n|     | fuel control panel operator (Wing Vent Monitor (WVM) not |\n|     | required on B-757/767 aircraft).                         |\n| \u2022   |                                                          |\n|     | *The B-757/767/777 aircraft have two completely separate |\n|     | intercom systems, flight and servicing. Therefore,       |\n|     | the indi-                                                |\n|     | vidual                                                   |\n|     | in the cockpit must                                      |\n|     | take responsibility for notifying                        |\n|     | personnel                                                |\n|     | in the cabin area in the event of an emergency.          |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 16,
+      "asset_id": "tbl_TO 00-25-172CL-1_p16_5fafc924",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p17_8a04ad5b",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 18\n\n| 0   | 1                                                            |\n|:----|:-------------------------------------------------------------|\n| \u2022   |                                                              |\n|     | Fuel hoses will not be connected to hydrant or aircraft SPR  |\n|     | until deplaning passengers via a portable staircase are out- |\n|     | side the concurrent servicing area. Failure to comply could  |\n|     | result                                                       |\n|     | in damage to, or destruction of, equipment or                |\n|     | loss of                                                      |\n|     | mission effectiveness.                                       |\n| \u2022   |                                                              |\n|     | *Maintenance stands and equipment used in concurrent ser-    |\n|     | vicing must be positioned to make sure aircraft              |\n|     | is not dam-                                                  |\n|     | aged when it settles during refueling operations. Failure to |\n|     | comply could result                                          |\n|     | in damage to, or destruction of, equip-                      |\n|     | ment or                                                      |\n|     | loss of mission effectiveness.                               |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 17,
+      "asset_id": "tbl_TO 00-25-172CL-1_p17_8a04ad5b",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p17_fb27e90d",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 18\n\n| 0                                                            |\n|:-------------------------------------------------------------|\n| aged when it settles during refueling operations. Failure to |\n| comply could result                                          |\n| in damage to, or destruction of, equip-                      |\n| ment or                                                      |\n| loss of mission effectiveness.                               |\n| (e) *Position maintenance stands and bond metallic stands to |\n| the aircraft when using the stands                           |\n| to access                                                    |\n| the aircraft                                                 |\n| SPR's or support a fuel servicing hose during fuel servic-   |\n| ing operations.                                              |\n| (f) Make sure ramps and stairs are in their proper position  |\n| and unobstructed to enable emergency egress.                 |\n| (g) Advise servicing personnel                               |\n| to avoid the Ram Air Turbine                                 |\n| (RAT)                                                        |\n| doors                                                        |\n| behind                                                       |\n| the                                                          |\n| right main                                                   |\n| landing                                                      |\n| gears                                                        |\n| on                                                           |\n| B-757/767/777 aircraft.                                      |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 17,
+      "asset_id": "tbl_TO 00-25-172CL-1_p17_fb27e90d",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p18_621957d5",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 19\n\n| 0                                                                 |\n|:------------------------------------------------------------------|\n| Voice contact must be established and maintained at all           |\n| times                                                             |\n| during the fuel servicing portion of concurrent servicing opera-  |\n| tions when passengers, flight or ground crew members are on       |\n| board the aircraft. The aircraft                                  |\n| intercom system should be used                                    |\n| as the primary means of maintaining voice contact between the     |\n| fuel servicing team members. If the aircraft                      |\n| intercom system is                                                |\n| inoperative and cannot be used to maintain voice communica-       |\n| tions, portable hand-held radios may be used to provide voice     |\n| contact                                                           |\n| subject                                                           |\n| to the                                                            |\n| following stipulations. Radios                                    |\n| can be                                                            |\n| used within the FSSZ; however, only intrinsically safe radios     |\n| can be used within 10 feet of any aircraft fuel vent outlet, fuel |\n| spill                                                             |\n| or                                                                |\n| fuel                                                              |\n| tank                                                              |\n| truck                                                             |\n| being filled                                                      |\n| from aircraft                                                     |\n| defueling.                                                        |\n| Failure to comply could result                                    |\n| in injury to, or death of, person-                                |\n| nel or                                                            |\n| long term health hazards.                                         |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 18,
+      "asset_id": "tbl_TO 00-25-172CL-1_p18_621957d5",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p19_dcb17e01",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 20\n\n| 0   | 1                                                               |\n|:----|:----------------------------------------------------------------|\n| \u2022   |                                                                 |\n|     | *Maintenance and repair of aircraft electrical,                 |\n|     | radio,                                                          |\n|     | radar,                                                          |\n|     | fuel, or other systems requiring use of electrical power, shall |\n|     | not be accomplished during fueling operations.                  |\n|     | In addition,                                                    |\n|     | lines containing flammable or combustible liquids shall not     |\n|     | be opened. Failure to comply could result                       |\n|     | in injury to, or                                                |\n|     | death of, personnel or                                          |\n|     | long term health hazards.                                       |\n| \u2022   |                                                                 |\n|     | *Only those aircraft switches required for concurrent servic-   |\n|     | ing operations will be operated. Failure                        |\n|     | to comply could                                                 |\n|     | result in injury to, or death of, personnel or long term health |\n|     | hazards.                                                        |\n| \u2022   |                                                                 |\n|     | *Vehicles                                                       |\n|     | shall not be                                                    |\n|     | allowed to operate/pass within 25                               |\n|     | feet of aircraft fuel vents and pressurized fuel servicing sys- |\n|     | tem components                                                  |\n|     | (except Boeing 747/757/777 aircraft,                            |\n|     | in-                                                             |\n|     | cluding KC-46,which are acceptable for having authorized        |\n|     | vehicles pass underneath but may not                            |\n|     | stop or be parked                                               |\n|     | directly beneath the                                            |\n|     | fuel vent outlets). Failure                                     |\n|     | to comply                                                       |\n|     | could result                                                    |\n|     | in injury to, or death of, personnel or long term               |\n|     | health hazards.                                                 |\n| \u2022   |                                                                 |\n|     | *A malfunction of                                               |\n|     | any component of                                                |\n|     | the                                                             |\n|     | fueling system                                                  |\n|     | will require an immediate shutdown of the fueling operation     |\n|     | until defect                                                    |\n|     | is                                                              |\n|     | repaired. Failure                                               |\n|     | to comply could result                                          |\n|     | in                                                              |\n|     | injury to, or death of, personnel or long term health hazards.  |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 19,
+      "asset_id": "tbl_TO 00-25-172CL-1_p19_dcb17e01",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p20_480ece8e",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 21\n\n| 0      | 1                                             | 2                     |\n|:-------|:----------------------------------------------|:----------------------|\n|        |                                               | TO 00-25-172CL-1      |\n| result | in damage to, or destruction of, equipment or | loss of               |\n|        | Change 2                                      | 1-10.1/(1-10.2 blank) |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 20,
+      "asset_id": "tbl_TO 00-25-172CL-1_p20_480ece8e",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p21_6bba1a09",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 22\n\n| 0                                                            | 1                                                            |\n|:-------------------------------------------------------------|:-------------------------------------------------------------|\n|                                                              | TO 00-25-172CL-1                                             |\n| mission effectiveness.                                       |                                                              |\n|                                                              | NOTE                                                         |\n| The MD-11 aircraft contain fuel                              | in the horizontal                                            |\n|                                                              | stabilators.                                                 |\n| Avoid placing personnel or equipment underneath the stabila- |                                                              |\n| tor fuel vent outlet.                                        |                                                              |\n| (1)                                                          | Fueling operations will begin only when deplaning passengers |\n|                                                              | are clear of the concurrent servicing area.                  |\n| (2)                                                          | *The CSS will:                                               |\n|                                                              | (a) *Instruct                                                |\n|                                                              | the SPR/Vent monitor(s) to verify all wheels are             |\n|                                                              | chocked as required.                                         |\n|                                                              | (b) *Inform refueling team members on intercom that          |\n|                                                              | fuel                                                         |\n|                                                              | transfer                                                     |\n|                                                              | is to begin.                                                 |\n|                                                              | NOTE                                                         |\n| *The SCR will                                                | receive and connect/disconnect                               |\n|                                                              | fuel nozzle to                                               |\n| SPR.                                                         |                                                              |\n| (3)                                                          | *The SCR, or his designated representative; will:            |\n|                                                              | (a) *Remove                                                  |\n|                                                              | cover                                                        |\n|                                                              | from fuel                                                    |\n|                                                              | nozzle,                                                      |\n|                                                              | and                                                          |\n|                                                              | visually                                                     |\n|                                                              | inspect                                                      |\n|                                                              | locking pins/lugs and seal                                   |\n|                                                              | for                                                          |\n|                                                              | serviceability before con-                                   |\n|                                                              | necting to aircraft.                                         |\n|                                                              | 1-11                                                         |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 21,
+      "asset_id": "tbl_TO 00-25-172CL-1_p21_6bba1a09",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p22_8cbee1df",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 23\n\n| 0                                                               |\n|:----------------------------------------------------------------|\n| *Prior                                                          |\n| to pressurizing the system,                                     |\n| the SCR or his designated                                       |\n| representative shall check the strainer coupling quick discon-  |\n| nect                                                            |\n| locking, and shall ensure the refueling nozzle is securely      |\n| locked to the aircraft by attempting to remove the nozzle with  |\n| the poppet valve in the open position.                          |\n| If                                                              |\n| the refueling nozzle                                            |\n| can be removed from the aircraft with valve open, the refueling |\n| unit/hydrant hose cart operator will be immediately notified to |\n| remove the nozzle from service. Failure to comply could result  |\n| in damage to, or destruction of, equipment or                   |\n| loss of mission                                                 |\n| effectiveness.                                                  |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 22,
+      "asset_id": "tbl_TO 00-25-172CL-1_p22_8cbee1df",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p23_deec4d0b",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 24\n\n| 0                                                              |\n|:---------------------------------------------------------------|\n| TO 00-25-172CL-1                                               |\n| *Stop refueling operation if                                   |\n| fuel flow does not                                             |\n| stop during                                                    |\n| precheck. Refueling will not be resumed until                  |\n| the problem has                                                |\n| been corrected. Failure to comply could result                 |\n| in injury to, or                                               |\n| death of, personnel or long term health hazards.               |\n| (6)                                                            |\n| *Perform fuel flow precheck.                                   |\n| (7)                                                            |\n| *Direct                                                        |\n| fueling equipment operator                                     |\n| to stop fuel flow when                                         |\n| desired quantity is loaded.                                    |\n| (8)                                                            |\n| *Set all                                                       |\n| fuel switches to close.                                        |\n| The SCR must make sure fuel flow has                           |\n| stopped and hose is                                            |\n| depressurized/evacuated                                        |\n| prior                                                          |\n| to                                                             |\n| disconnecting                                                  |\n| nozzle                                                         |\n| from                                                           |\n| SPR adapter. Make sure nozzle handle is closed prior           |\n| to de-                                                         |\n| pressurizing hose. Failure to comply could result              |\n| in damage to,                                                  |\n| or destruction of, equipment or loss of mission effectiveness. |\n| (9)                                                            |\n| *Close the refueling nozzle and disconnect nozzle from SPR     |\n| adapter.                                                       |\n| (10)                                                           |\n| *Reinstall SPR adapter cap.                                    |\n| NOTE                                                           |\n| *Be sure SPR adapter cup is properly secured.                  |\n| (11)                                                           |\n| *Wrap and store all refueling hoses, remove grounding bond-    |\n| ing wires, and clear fuel servicing and support equipment from |\n| the area.                                                      |\n| (12)                                                           |\n| *The CSS will have SPR/Vent monitor(s)                         |\n| reposition aircraft                                            |\n| wheel chocks as required.                                      |\n| 1-13                                                           |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 23,
+      "asset_id": "tbl_TO 00-25-172CL-1_p23_deec4d0b",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_table_tbl_TO 00-25-172CL-1_p24_c0b8d976",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-1, PAGE 25\n\n| 0                | 1    | 2                                                               |\n|:-----------------|:-----|:----------------------------------------------------------------|\n| TO 00-25-172CL-1 |      |                                                                 |\n|                  | (13) | *Release ARFF vehicle from area.                                |\n|                  | (14) | *Release refuel                                                 |\n|                  |      | team members.                                                   |\n|                  | (15) | *Notify flight crew/contractor representative refueling is com- |\n|                  |      | plete.                                                          |\n| 1-14             |      |                                                                 |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 24,
+      "asset_id": "tbl_TO 00-25-172CL-1_p24_c0b8d976",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p1_b219404a",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 2\n\nNOTE: The portion of the text affected by the changes is indicated by a vertical line in the outer",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 1,
+      "asset_id": "warn_TO 00-25-172CL-1_p1_b219404a",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p3_b54aeed7",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 4\n\nNOTE: On C/KC-135 (all models), MAF and Commercial aircraft,",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 3,
+      "asset_id": "warn_TO 00-25-172CL-1_p3_b54aeed7",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p3_af41da5f",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 4\n\nNOTE: s, cautions, and warnings of a general or specific nature con-",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 3,
+      "asset_id": "warn_TO 00-25-172CL-1_p3_af41da5f",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p4_4bea6b4e",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 5\n\nNOTE: When searching Technical Order (TO) numbers in the En-",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 4,
+      "asset_id": "warn_TO 00-25-172CL-1_p4_4bea6b4e",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p7_03c7c0ac",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 8\n\nCAUTION: s",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 7,
+      "asset_id": "warn_TO 00-25-172CL-1_p7_03c7c0ac",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p7_edcfdd4b",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 8\n\nWARNING: s, CAUTIONs, and",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 7,
+      "asset_id": "warn_TO 00-25-172CL-1_p7_edcfdd4b",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p7_6dbd36ad",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 8\n\nNOTE: s included in that task shall be reviewed and understood.\n2",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 7,
+      "asset_id": "warn_TO 00-25-172CL-1_p7_6dbd36ad",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p7_fdc36397",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 8\n\nWARNING: S, CAUTIONS, AND NOTES.",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 7,
+      "asset_id": "warn_TO 00-25-172CL-1_p7_fdc36397",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p7_97cf58ab",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 8\n\nWARNING: s and CAUTIONs are used in this manual to highlight oper-",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 7,
+      "asset_id": "warn_TO 00-25-172CL-1_p7_97cf58ab",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p7_8ab25a8d",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 8\n\nWARNING: ) or",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 7,
+      "asset_id": "warn_TO 00-25-172CL-1_p7_8ab25a8d",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p7_53fe1bc6",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 8\n\nCAUTION: ). WARNINGs and CAUTIONs immediately pre-",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 7,
+      "asset_id": "warn_TO 00-25-172CL-1_p7_53fe1bc6",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p7_16374d85",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 8\n\nWARNING: s and CAU-",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 7,
+      "asset_id": "warn_TO 00-25-172CL-1_p7_16374d85",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p7_a70b0f4a",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 8\n\nWARNING: , CAUTION, or icon),",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 7,
+      "asset_id": "warn_TO 00-25-172CL-1_p7_a70b0f4a",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p7_66e9cbea",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 8\n\nCAUTION: s, and possible results if",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 7,
+      "asset_id": "warn_TO 00-25-172CL-1_p7_66e9cbea",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p7_267eda3c",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 8\n\nNOTE: s are used in this manual to highlight operating or",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 7,
+      "asset_id": "warn_TO 00-25-172CL-1_p7_267eda3c",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p7_36ad7eef",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 8\n\nNOTE: s may pre-",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 7,
+      "asset_id": "warn_TO 00-25-172CL-1_p7_36ad7eef",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p8_53851611",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 9\n\nNOTE: Highlights an essential operating or maintenance procedure,",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 8,
+      "asset_id": "warn_TO 00-25-172CL-1_p8_53851611",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p10_8a4b8a1c",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 11\n\nNOTE: When fuel servicing with government-provided fuel on a",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 10,
+      "asset_id": "warn_TO 00-25-172CL-1_p10_8a4b8a1c",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p11_56a92a1d",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 12\n\nNOTE: *The CSS will wear a reflective vest with the letters CSS on",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 11,
+      "asset_id": "warn_TO 00-25-172CL-1_p11_56a92a1d",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p16_fd8dec57",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 17\n\nNOTE: \u2022\n*The CSS will remain in constant voice contact with per-",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 16,
+      "asset_id": "warn_TO 00-25-172CL-1_p16_fd8dec57",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p21_c3a36b16",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 22\n\nNOTE: The MD-11 aircraft contain fuel in the horizontal stabilators.",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 21,
+      "asset_id": "warn_TO 00-25-172CL-1_p21_c3a36b16",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p21_41eb2603",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 22\n\nNOTE: *The SCR will receive and connect/disconnect fuel nozzle to",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 21,
+      "asset_id": "warn_TO 00-25-172CL-1_p21_41eb2603",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p22_34c16820",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 23\n\nNOTE: *Refueling will be accomplished in accordance with applicable",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 22,
+      "asset_id": "warn_TO 00-25-172CL-1_p22_34c16820",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-1_warning_warn_TO 00-25-172CL-1_p23_c9d00ea4",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-1, PAGE 24\n\nNOTE: *Be sure SPR adapter cup is properly secured.\n(11) *Wrap and store all refueling hoses, remove grounding bond-",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-1",
+      "to_number": "00-25-172CL-1",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 23,
+      "asset_id": "warn_TO 00-25-172CL-1_p23_c9d00ea4",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  }
+]

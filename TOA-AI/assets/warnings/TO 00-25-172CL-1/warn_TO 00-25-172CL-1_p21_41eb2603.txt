@@ -1,0 +1,1 @@
+NOTE: *The SCR will receive and connect/disconnect fuel nozzle to

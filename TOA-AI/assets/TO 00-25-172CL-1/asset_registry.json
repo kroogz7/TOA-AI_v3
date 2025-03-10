@@ -1,0 +1,956 @@
+{
+  "images": {
+    "img_TO 00-25-172CL-1_p6_eca3eafd": {
+      "id": "img_TO 00-25-172CL-1_p6_eca3eafd",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 6,
+      "caption": null,
+      "source_rect": [
+        33.52300262451172,
+        58.619991302490234,
+        49.36300277709961,
+        67.739990234375
+      ],
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\images\\TO 00-25-172CL-1\\img_TO 00-25-172CL-1_p6_eca3eafd.png",
+      "width": 66,
+      "height": 38,
+      "format": "PNG"
+    },
+    "img_TO 00-25-172CL-1_p6_9c49a25b": {
+      "id": "img_TO 00-25-172CL-1_p6_9c49a25b",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 6,
+      "caption": null,
+      "source_rect": [
+        131.75999450683594,
+        82.8169937133789,
+        200.8800048828125,
+        104.4169921875
+      ],
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\images\\TO 00-25-172CL-1\\img_TO 00-25-172CL-1_p6_9c49a25b.png",
+      "width": 288,
+      "height": 90,
+      "format": "PNG"
+    },
+    "img_TO 00-25-172CL-1_p6_0fc7a834": {
+      "id": "img_TO 00-25-172CL-1_p6_0fc7a834",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 6,
+      "caption": null,
+      "source_rect": [
+        33.52300262451172,
+        205.1949920654297,
+        44.96900177001953,
+        216.6409912109375
+      ],
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\images\\TO 00-25-172CL-1\\img_TO 00-25-172CL-1_p6_0fc7a834.png",
+      "width": 28,
+      "height": 28,
+      "format": "PNG"
+    },
+    "img_TO 00-25-172CL-1_p7_58eba379": {
+      "id": "img_TO 00-25-172CL-1_p7_58eba379",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 7,
+      "caption": null,
+      "source_rect": [
+        158.39999389648438,
+        365.6910095214844,
+        228.95999145507812,
+        389.21099853515625
+      ],
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\images\\TO 00-25-172CL-1\\img_TO 00-25-172CL-1_p7_58eba379.png",
+      "width": 294,
+      "height": 98,
+      "format": "PNG"
+    },
+    "img_TO 00-25-172CL-1_p8_9c49a25b": {
+      "id": "img_TO 00-25-172CL-1_p8_9c49a25b",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 8,
+      "caption": null,
+      "source_rect": [
+        131.75999450683594,
+        59.868019104003906,
+        200.8800048828125,
+        81.468017578125
+      ],
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\images\\TO 00-25-172CL-1\\img_TO 00-25-172CL-1_p8_9c49a25b.png",
+      "width": 288,
+      "height": 90,
+      "format": "PNG"
+    },
+    "img_TO 00-25-172CL-1_p12_9c49a25b": {
+      "id": "img_TO 00-25-172CL-1_p12_9c49a25b",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 12,
+      "caption": null,
+      "source_rect": [
+        131.75999450683594,
+        184.41397094726562,
+        200.8800048828125,
+        206.01397705078125
+      ],
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\images\\TO 00-25-172CL-1\\img_TO 00-25-172CL-1_p12_9c49a25b.png",
+      "width": 288,
+      "height": 90,
+      "format": "PNG"
+    },
+    "img_TO 00-25-172CL-1_p12_58eba379": {
+      "id": "img_TO 00-25-172CL-1_p12_58eba379",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 12,
+      "caption": null,
+      "source_rect": [
+        131.0399932861328,
+        59.86702346801758,
+        201.59999084472656,
+        83.38702392578125
+      ],
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\images\\TO 00-25-172CL-1\\img_TO 00-25-172CL-1_p12_58eba379.png",
+      "width": 294,
+      "height": 98,
+      "format": "PNG"
+    },
+    "img_TO 00-25-172CL-1_p15_9c49a25b": {
+      "id": "img_TO 00-25-172CL-1_p15_9c49a25b",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 15,
+      "caption": null,
+      "source_rect": [
+        159.1199951171875,
+        59.868019104003906,
+        228.239990234375,
+        81.468017578125
+      ],
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\images\\TO 00-25-172CL-1\\img_TO 00-25-172CL-1_p15_9c49a25b.png",
+      "width": 288,
+      "height": 90,
+      "format": "PNG"
+    },
+    "img_TO 00-25-172CL-1_p17_9c49a25b": {
+      "id": "img_TO 00-25-172CL-1_p17_9c49a25b",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 17,
+      "caption": null,
+      "source_rect": [
+        131.75999450683594,
+        59.868019104003906,
+        200.8800048828125,
+        81.468017578125
+      ],
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\images\\TO 00-25-172CL-1\\img_TO 00-25-172CL-1_p17_9c49a25b.png",
+      "width": 288,
+      "height": 90,
+      "format": "PNG"
+    },
+    "img_TO 00-25-172CL-1_p18_58eba379": {
+      "id": "img_TO 00-25-172CL-1_p18_58eba379",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 18,
+      "caption": null,
+      "source_rect": [
+        158.39999389648438,
+        59.86702346801758,
+        228.95999145507812,
+        83.38702392578125
+      ],
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\images\\TO 00-25-172CL-1\\img_TO 00-25-172CL-1_p18_58eba379.png",
+      "width": 294,
+      "height": 98,
+      "format": "PNG"
+    },
+    "img_TO 00-25-172CL-1_p19_9c49a25b": {
+      "id": "img_TO 00-25-172CL-1_p19_9c49a25b",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 19,
+      "caption": null,
+      "source_rect": [
+        131.75999450683594,
+        375.989990234375,
+        200.8800048828125,
+        397.5899963378906
+      ],
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\images\\TO 00-25-172CL-1\\img_TO 00-25-172CL-1_p19_9c49a25b.png",
+      "width": 288,
+      "height": 90,
+      "format": "PNG"
+    },
+    "img_TO 00-25-172CL-1_p19_58eba379": {
+      "id": "img_TO 00-25-172CL-1_p19_58eba379",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 19,
+      "caption": null,
+      "source_rect": [
+        131.0399932861328,
+        59.86702346801758,
+        201.59999084472656,
+        83.38702392578125
+      ],
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\images\\TO 00-25-172CL-1\\img_TO 00-25-172CL-1_p19_58eba379.png",
+      "width": 294,
+      "height": 98,
+      "format": "PNG"
+    },
+    "img_TO 00-25-172CL-1_p22_9c49a25b": {
+      "id": "img_TO 00-25-172CL-1_p22_9c49a25b",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 22,
+      "caption": null,
+      "source_rect": [
+        131.75999450683594,
+        59.868019104003906,
+        200.8800048828125,
+        81.468017578125
+      ],
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\images\\TO 00-25-172CL-1\\img_TO 00-25-172CL-1_p22_9c49a25b.png",
+      "width": 288,
+      "height": 90,
+      "format": "PNG"
+    },
+    "img_TO 00-25-172CL-1_p23_9c49a25b": {
+      "id": "img_TO 00-25-172CL-1_p23_9c49a25b",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 23,
+      "caption": null,
+      "source_rect": [
+        159.1199951171875,
+        231.30999755859375,
+        228.239990234375,
+        252.91000366210938
+      ],
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\images\\TO 00-25-172CL-1\\img_TO 00-25-172CL-1_p23_9c49a25b.png",
+      "width": 288,
+      "height": 90,
+      "format": "PNG"
+    },
+    "img_TO 00-25-172CL-1_p23_58eba379": {
+      "id": "img_TO 00-25-172CL-1_p23_58eba379",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 23,
+      "caption": null,
+      "source_rect": [
+        158.39999389648438,
+        59.86702346801758,
+        228.95999145507812,
+        83.38702392578125
+      ],
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\images\\TO 00-25-172CL-1\\img_TO 00-25-172CL-1_p23_58eba379.png",
+      "width": 294,
+      "height": 98,
+      "format": "PNG"
+    }
+  },
+  "tables": {
+    "tbl_TO 00-25-172CL-1_p0_ad855b49": {
+      "id": "tbl_TO 00-25-172CL-1_p0_ad855b49",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 0,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p0_ad855b49.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p0_ad855b49.md",
+      "rows": 21,
+      "columns": 3,
+      "headers": [
+        0,
+        1,
+        2
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p1_2eb333ec": {
+      "id": "tbl_TO 00-25-172CL-1_p1_2eb333ec",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 1,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p1_2eb333ec.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p1_2eb333ec.md",
+      "rows": 28,
+      "columns": 23,
+      "headers": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p2_4a47e3ec": {
+      "id": "tbl_TO 00-25-172CL-1_p2_4a47e3ec",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 2,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p2_4a47e3ec.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p2_4a47e3ec.md",
+      "rows": 10,
+      "columns": 6,
+      "headers": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p3_6a3b4de0": {
+      "id": "tbl_TO 00-25-172CL-1_p3_6a3b4de0",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 3,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p3_6a3b4de0.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p3_6a3b4de0.md",
+      "rows": 11,
+      "columns": 1,
+      "headers": [
+        0
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p3_75eee6d7": {
+      "id": "tbl_TO 00-25-172CL-1_p3_75eee6d7",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 3,
+      "caption": null,
+      "table_num": "Table 2",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p3_75eee6d7.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p3_75eee6d7.md",
+      "rows": 12,
+      "columns": 1,
+      "headers": [
+        0
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p4_b2751fe7": {
+      "id": "tbl_TO 00-25-172CL-1_p4_b2751fe7",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 4,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p4_b2751fe7.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p4_b2751fe7.md",
+      "rows": 24,
+      "columns": 1,
+      "headers": [
+        0
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p4_6f56039f": {
+      "id": "tbl_TO 00-25-172CL-1_p4_6f56039f",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 4,
+      "caption": null,
+      "table_num": "Table 2",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p4_6f56039f.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p4_6f56039f.md",
+      "rows": 8,
+      "columns": 1,
+      "headers": [
+        0
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p5_cb34affb": {
+      "id": "tbl_TO 00-25-172CL-1_p5_cb34affb",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 5,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p5_cb34affb.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p5_cb34affb.md",
+      "rows": 17,
+      "columns": 2,
+      "headers": [
+        0,
+        1
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p6_c159fd34": {
+      "id": "tbl_TO 00-25-172CL-1_p6_c159fd34",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 6,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p6_c159fd34.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p6_c159fd34.md",
+      "rows": 20,
+      "columns": 1,
+      "headers": [
+        0
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p7_8dec8e4b": {
+      "id": "tbl_TO 00-25-172CL-1_p7_8dec8e4b",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 7,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p7_8dec8e4b.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p7_8dec8e4b.md",
+      "rows": 22,
+      "columns": 1,
+      "headers": [
+        0
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p8_b9ff62ef": {
+      "id": "tbl_TO 00-25-172CL-1_p8_b9ff62ef",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 8,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p8_b9ff62ef.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p8_b9ff62ef.md",
+      "rows": 7,
+      "columns": 6,
+      "headers": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p9_d002c63b": {
+      "id": "tbl_TO 00-25-172CL-1_p9_d002c63b",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 9,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p9_d002c63b.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p9_d002c63b.md",
+      "rows": 31,
+      "columns": 1,
+      "headers": [
+        0
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p10_0c17c408": {
+      "id": "tbl_TO 00-25-172CL-1_p10_0c17c408",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 10,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p10_0c17c408.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p10_0c17c408.md",
+      "rows": 16,
+      "columns": 2,
+      "headers": [
+        0,
+        1
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p10_25b9904d": {
+      "id": "tbl_TO 00-25-172CL-1_p10_25b9904d",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 10,
+      "caption": null,
+      "table_num": "Table 2",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p10_25b9904d.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p10_25b9904d.md",
+      "rows": 9,
+      "columns": 1,
+      "headers": [
+        0
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p11_3ec1f5f3": {
+      "id": "tbl_TO 00-25-172CL-1_p11_3ec1f5f3",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 11,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p11_3ec1f5f3.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p11_3ec1f5f3.md",
+      "rows": 13,
+      "columns": 3,
+      "headers": [
+        0,
+        1,
+        2
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p12_5a4363c6": {
+      "id": "tbl_TO 00-25-172CL-1_p12_5a4363c6",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 12,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p12_5a4363c6.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p12_5a4363c6.md",
+      "rows": 7,
+      "columns": 1,
+      "headers": [
+        0
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p12_bc194e16": {
+      "id": "tbl_TO 00-25-172CL-1_p12_bc194e16",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 12,
+      "caption": null,
+      "table_num": "Table 2",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p12_bc194e16.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p12_bc194e16.md",
+      "rows": 11,
+      "columns": 2,
+      "headers": [
+        0,
+        1
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p13_3128b9fd": {
+      "id": "tbl_TO 00-25-172CL-1_p13_3128b9fd",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 13,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p13_3128b9fd.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p13_3128b9fd.md",
+      "rows": 25,
+      "columns": 2,
+      "headers": [
+        0,
+        1
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p14_ceaf73b3": {
+      "id": "tbl_TO 00-25-172CL-1_p14_ceaf73b3",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 14,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p14_ceaf73b3.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p14_ceaf73b3.md",
+      "rows": 15,
+      "columns": 1,
+      "headers": [
+        0
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p15_4550fb1e": {
+      "id": "tbl_TO 00-25-172CL-1_p15_4550fb1e",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 15,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p15_4550fb1e.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p15_4550fb1e.md",
+      "rows": 5,
+      "columns": 1,
+      "headers": [
+        0
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p16_5fafc924": {
+      "id": "tbl_TO 00-25-172CL-1_p16_5fafc924",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 16,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p16_5fafc924.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p16_5fafc924.md",
+      "rows": 13,
+      "columns": 2,
+      "headers": [
+        0,
+        1
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p17_8a04ad5b": {
+      "id": "tbl_TO 00-25-172CL-1_p17_8a04ad5b",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 17,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p17_8a04ad5b.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p17_8a04ad5b.md",
+      "rows": 12,
+      "columns": 2,
+      "headers": [
+        0,
+        1
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p17_fb27e90d": {
+      "id": "tbl_TO 00-25-172CL-1_p17_fb27e90d",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 17,
+      "caption": null,
+      "table_num": "Table 2",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p17_fb27e90d.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p17_fb27e90d.md",
+      "rows": 12,
+      "columns": 1,
+      "headers": [
+        0
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p18_621957d5": {
+      "id": "tbl_TO 00-25-172CL-1_p18_621957d5",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 18,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p18_621957d5.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p18_621957d5.md",
+      "rows": 14,
+      "columns": 1,
+      "headers": [
+        0
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p19_dcb17e01": {
+      "id": "tbl_TO 00-25-172CL-1_p19_dcb17e01",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 19,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p19_dcb17e01.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p19_dcb17e01.md",
+      "rows": 26,
+      "columns": 2,
+      "headers": [
+        0,
+        1
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p20_480ece8e": {
+      "id": "tbl_TO 00-25-172CL-1_p20_480ece8e",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 20,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p20_480ece8e.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p20_480ece8e.md",
+      "rows": 3,
+      "columns": 3,
+      "headers": [
+        0,
+        1,
+        2
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p21_6bba1a09": {
+      "id": "tbl_TO 00-25-172CL-1_p21_6bba1a09",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 21,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p21_6bba1a09.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p21_6bba1a09.md",
+      "rows": 21,
+      "columns": 2,
+      "headers": [
+        0,
+        1
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p22_8cbee1df": {
+      "id": "tbl_TO 00-25-172CL-1_p22_8cbee1df",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 22,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p22_8cbee1df.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p22_8cbee1df.md",
+      "rows": 10,
+      "columns": 1,
+      "headers": [
+        0
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p23_deec4d0b": {
+      "id": "tbl_TO 00-25-172CL-1_p23_deec4d0b",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 23,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p23_deec4d0b.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p23_deec4d0b.md",
+      "rows": 25,
+      "columns": 1,
+      "headers": [
+        0
+      ]
+    },
+    "tbl_TO 00-25-172CL-1_p24_c0b8d976": {
+      "id": "tbl_TO 00-25-172CL-1_p24_c0b8d976",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 24,
+      "caption": null,
+      "table_num": "Table 1",
+      "csv_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p24_c0b8d976.csv",
+      "md_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\tables\\TO 00-25-172CL-1\\tbl_TO 00-25-172CL-1_p24_c0b8d976.md",
+      "rows": 6,
+      "columns": 3,
+      "headers": [
+        0,
+        1,
+        2
+      ]
+    }
+  },
+  "warnings": {
+    "warn_TO 00-25-172CL-1_p1_b219404a": {
+      "id": "warn_TO 00-25-172CL-1_p1_b219404a",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 1,
+      "warning_type": "NOTE",
+      "content": "The portion of the text affected by the changes is indicated by a vertical line in the outer",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p1_b219404a.txt",
+      "priority": 3
+    },
+    "warn_TO 00-25-172CL-1_p3_b54aeed7": {
+      "id": "warn_TO 00-25-172CL-1_p3_b54aeed7",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 3,
+      "warning_type": "NOTE",
+      "content": "On C/KC-135 (all models), MAF and Commercial aircraft,",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p3_b54aeed7.txt",
+      "priority": 3
+    },
+    "warn_TO 00-25-172CL-1_p3_af41da5f": {
+      "id": "warn_TO 00-25-172CL-1_p3_af41da5f",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 3,
+      "warning_type": "NOTE",
+      "content": "s, cautions, and warnings of a general or specific nature con-",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p3_af41da5f.txt",
+      "priority": 3
+    },
+    "warn_TO 00-25-172CL-1_p4_4bea6b4e": {
+      "id": "warn_TO 00-25-172CL-1_p4_4bea6b4e",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 4,
+      "warning_type": "NOTE",
+      "content": "When searching Technical Order (TO) numbers in the En-",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p4_4bea6b4e.txt",
+      "priority": 3
+    },
+    "warn_TO 00-25-172CL-1_p7_03c7c0ac": {
+      "id": "warn_TO 00-25-172CL-1_p7_03c7c0ac",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 7,
+      "warning_type": "CAUTION",
+      "content": "s",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p7_03c7c0ac.txt",
+      "priority": 2
+    },
+    "warn_TO 00-25-172CL-1_p7_edcfdd4b": {
+      "id": "warn_TO 00-25-172CL-1_p7_edcfdd4b",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 7,
+      "warning_type": "WARNING",
+      "content": "s, CAUTIONs, and",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p7_edcfdd4b.txt",
+      "priority": 1
+    },
+    "warn_TO 00-25-172CL-1_p7_6dbd36ad": {
+      "id": "warn_TO 00-25-172CL-1_p7_6dbd36ad",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 7,
+      "warning_type": "NOTE",
+      "content": "s included in that task shall be reviewed and understood.\n2",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p7_6dbd36ad.txt",
+      "priority": 3
+    },
+    "warn_TO 00-25-172CL-1_p7_fdc36397": {
+      "id": "warn_TO 00-25-172CL-1_p7_fdc36397",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 7,
+      "warning_type": "WARNING",
+      "content": "S, CAUTIONS, AND NOTES.",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p7_fdc36397.txt",
+      "priority": 1
+    },
+    "warn_TO 00-25-172CL-1_p7_97cf58ab": {
+      "id": "warn_TO 00-25-172CL-1_p7_97cf58ab",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 7,
+      "warning_type": "WARNING",
+      "content": "s and CAUTIONs are used in this manual to highlight oper-",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p7_97cf58ab.txt",
+      "priority": 1
+    },
+    "warn_TO 00-25-172CL-1_p7_8ab25a8d": {
+      "id": "warn_TO 00-25-172CL-1_p7_8ab25a8d",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 7,
+      "warning_type": "WARNING",
+      "content": ") or",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p7_8ab25a8d.txt",
+      "priority": 1
+    },
+    "warn_TO 00-25-172CL-1_p7_53fe1bc6": {
+      "id": "warn_TO 00-25-172CL-1_p7_53fe1bc6",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 7,
+      "warning_type": "CAUTION",
+      "content": "). WARNINGs and CAUTIONs immediately pre-",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p7_53fe1bc6.txt",
+      "priority": 2
+    },
+    "warn_TO 00-25-172CL-1_p7_16374d85": {
+      "id": "warn_TO 00-25-172CL-1_p7_16374d85",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 7,
+      "warning_type": "WARNING",
+      "content": "s and CAU-",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p7_16374d85.txt",
+      "priority": 1
+    },
+    "warn_TO 00-25-172CL-1_p7_a70b0f4a": {
+      "id": "warn_TO 00-25-172CL-1_p7_a70b0f4a",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 7,
+      "warning_type": "WARNING",
+      "content": ", CAUTION, or icon),",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p7_a70b0f4a.txt",
+      "priority": 1
+    },
+    "warn_TO 00-25-172CL-1_p7_66e9cbea": {
+      "id": "warn_TO 00-25-172CL-1_p7_66e9cbea",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 7,
+      "warning_type": "CAUTION",
+      "content": "s, and possible results if",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p7_66e9cbea.txt",
+      "priority": 2
+    },
+    "warn_TO 00-25-172CL-1_p7_267eda3c": {
+      "id": "warn_TO 00-25-172CL-1_p7_267eda3c",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 7,
+      "warning_type": "NOTE",
+      "content": "s are used in this manual to highlight operating or",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p7_267eda3c.txt",
+      "priority": 3
+    },
+    "warn_TO 00-25-172CL-1_p7_36ad7eef": {
+      "id": "warn_TO 00-25-172CL-1_p7_36ad7eef",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 7,
+      "warning_type": "NOTE",
+      "content": "s may pre-",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p7_36ad7eef.txt",
+      "priority": 3
+    },
+    "warn_TO 00-25-172CL-1_p8_53851611": {
+      "id": "warn_TO 00-25-172CL-1_p8_53851611",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 8,
+      "warning_type": "NOTE",
+      "content": "Highlights an essential operating or maintenance procedure,",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p8_53851611.txt",
+      "priority": 3
+    },
+    "warn_TO 00-25-172CL-1_p10_8a4b8a1c": {
+      "id": "warn_TO 00-25-172CL-1_p10_8a4b8a1c",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 10,
+      "warning_type": "NOTE",
+      "content": "When fuel servicing with government-provided fuel on a",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p10_8a4b8a1c.txt",
+      "priority": 3
+    },
+    "warn_TO 00-25-172CL-1_p11_56a92a1d": {
+      "id": "warn_TO 00-25-172CL-1_p11_56a92a1d",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 11,
+      "warning_type": "NOTE",
+      "content": "*The CSS will wear a reflective vest with the letters CSS on",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p11_56a92a1d.txt",
+      "priority": 3
+    },
+    "warn_TO 00-25-172CL-1_p16_fd8dec57": {
+      "id": "warn_TO 00-25-172CL-1_p16_fd8dec57",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 16,
+      "warning_type": "NOTE",
+      "content": "\u2022\n*The CSS will remain in constant voice contact with per-",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p16_fd8dec57.txt",
+      "priority": 3
+    },
+    "warn_TO 00-25-172CL-1_p21_c3a36b16": {
+      "id": "warn_TO 00-25-172CL-1_p21_c3a36b16",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 21,
+      "warning_type": "NOTE",
+      "content": "The MD-11 aircraft contain fuel in the horizontal stabilators.",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p21_c3a36b16.txt",
+      "priority": 3
+    },
+    "warn_TO 00-25-172CL-1_p21_41eb2603": {
+      "id": "warn_TO 00-25-172CL-1_p21_41eb2603",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 21,
+      "warning_type": "NOTE",
+      "content": "*The SCR will receive and connect/disconnect fuel nozzle to",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p21_41eb2603.txt",
+      "priority": 3
+    },
+    "warn_TO 00-25-172CL-1_p22_34c16820": {
+      "id": "warn_TO 00-25-172CL-1_p22_34c16820",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 22,
+      "warning_type": "NOTE",
+      "content": "*Refueling will be accomplished in accordance with applicable",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p22_34c16820.txt",
+      "priority": 3
+    },
+    "warn_TO 00-25-172CL-1_p23_c9d00ea4": {
+      "id": "warn_TO 00-25-172CL-1_p23_c9d00ea4",
+      "document_id": "TO 00-25-172CL-1",
+      "page_num": 23,
+      "warning_type": "NOTE",
+      "content": "*Be sure SPR adapter cup is properly secured.\n(11) *Wrap and store all refueling hoses, remove grounding bond-",
+      "section_id": null,
+      "file_path": "C:\\Users\\akrew\\OneDrive\\Desktop\\TOA-AI_v3\\TOA-AI\\assets\\warnings\\TO 00-25-172CL-1\\warn_TO 00-25-172CL-1_p23_c9d00ea4.txt",
+      "priority": 3
+    }
+  }
+}

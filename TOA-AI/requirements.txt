@@ -1,0 +1,42 @@
+# TOA-AI PDF Processing Requirements
+
+# Core dependencies
+numpy>=1.20.0
+pandas>=1.3.0
+tqdm>=4.62.0
+pydantic>=1.8.2
+python-dotenv>=0.19.0
+
+# PDF Processing
+PyPDF2>=2.10.0
+pdfplumber>=0.7.0
+pdf2image>=1.16.0
+pytesseract>=0.3.8
+Pillow>=8.3.1
+
+# Embedding and Vector Search
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.3
+torch>=1.10.0
+transformers>=4.12.0
+
+# Retrieval Components
+rank_bm25>=0.2.2
+scikit-learn>=1.0.0
+
+# Web Service (for future API)
+fastapi>=0.70.0
+uvicorn>=0.15.0
+flask>=2.0.1          # Web interface
+requests>=2.26.0      # API client
+Pillow>=9.0.0         # Image processing
+
+# Vector Storage & Search
+chromadb==0.4.13       # Vector database
+loguru==0.7.0          # Better logging
+uuid==1.30             # For generating unique IDs
+jsonschema==4.19.0     # JSON validation
+
+# LLM Integration
+openai>=1.0.0
+anthropic>=0.8.0 

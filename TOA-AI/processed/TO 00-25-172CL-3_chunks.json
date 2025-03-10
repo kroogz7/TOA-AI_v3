@@ -1,0 +1,1242 @@
+[
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p0_ddade397",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 1\n\n| 0                                                                                          |\n|:-------------------------------------------------------------------------------------------|\n| TO 00-25-172CL-3                                                                           |\n| TECHNICAL MANUAL                                                                           |\n| CHECKLIST                                                                                  |\n| HOT REFUELING OF U.S. NAVY                                                                 |\n| AIRCRAFT                                                                                   |\n| This manual supersedes TO 00-25-172CL-3 dated 22 October 1990, Change 4                    |\n| dated 22 April 2013.                                                                       |\n| DISTRIBUTION STATEMENT A - Approved for public release; distribution is unlimited. PA Case |\n| Number 04-10-74. Other                                                                     |\n| requests for                                                                               |\n| this document shall be referred to 406 SCMS/GUEE,                                          |\n| Robins AFB, GA 31098. Questions concerning technical content shall be referred to HQ AFMC/ |\n| SEG.                                                                                       |\n| Published Under Authority of                                                               |\n| the Secretary of                                                                           |\n| the Air Force                                                                              |\n| 28 OCTOBER 2016                                                                            |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 0,
+      "asset_id": "tbl_TO 00-25-172CL-3_p0_ddade397",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p1_1231244b",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 2\n\n| 0                                                                              |\n|:-------------------------------------------------------------------------------|\n| FOREWORD                                                                       |\n| 1                                                                              |\n| PURPOSE.                                                                       |\n| In a wartime                                                                   |\n| situation, United States                                                       |\n| (US) Navy aircraft may land at                                                 |\n| United States Air Force (USAF) bases to refuel on its way to home base         |\n| or carrier. The Navy aircraft may need to be hot                               |\n| refueled (i.e.,                                                                |\n| refueled                                                                       |\n| with an engine running) in order to minimize ground turnaround time and        |\n| avoid the need for support equipment. This checklist provides the proce-       |\n| dures for hot refueling Navy aircraft. Applicable aircraft are the EA/A-6,     |\n| A-7E, E-2, F-14, EF/F-18, S-3 and AV-8. The E/A-6, E-2, F-14, and S-3          |\n| aircraft will                                                                  |\n| shut down the right engine for hot                                             |\n| refueling. The EF/F-18                                                         |\n| has been approved to hot refuel with both engines running. This checklist      |\n| is a step-by-step guide to accomplish the selected tasks. Although many        |\n| details are present, this checklist is intended for use by fully qualified and |\n| trained hot                                                                    |\n| refueling personnel only.                                                      |\n| 2                                                                              |\n| SCOPE.                                                                         |\n| The following support equipment                                                |\n| is required to follow the procedures set                                       |\n| forth in this checklist:                                                       |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 1,
+      "asset_id": "tbl_TO 00-25-172CL-3_p1_1231244b",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p1_5d5bd476",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 2\n\n| 0                                                                | 1                                        |\n|:-----------------------------------------------------------------|:-----------------------------------------|\n| The following support equipment                                  | is required to follow the procedures set |\n| forth in this checklist:                                         |                                          |\n| Fuel Source (R5/R9/R11/R12 Fuel Truck, Hydrant Fuel Pit, or Fuel |                                          |\n| Bladders)                                                        |                                          |\n| Grounding and Bonding Wires                                      |                                          |\n| Fire Extinguisher, 150 pound Halon, or Equivalent                |                                          |\n| Crash/Fire/Rescue Vehicle                                        |                                          |\n| M32A-60 Power Cart, or Equivalent (For E-2 Aircraft Only)        |                                          |\n| Eye Protection (For E-2 Aircraft Only)                           |                                          |\n| Hand Signalling Wands (For Night Operations)                     |                                          |\n| Chocks                                                           |                                          |\n| Intercom Cord with Adaptors (If available)                       |                                          |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 1,
+      "asset_id": "tbl_TO 00-25-172CL-3_p1_5d5bd476",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p2_67fd0df6",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 3\n\n| 0                | 1                                 |\n|:-----------------|:----------------------------------|\n| TO 00-25-172CL-3 |                                   |\n| AF               | Air Force                         |\n| AFTO             | Air Force Technical Order         |\n| APU              | Auxiliary Power Unit              |\n| ARFF             | Aircraft Rescue and Firefighting  |\n| DLA              | Defense Logistics Agency          |\n| DoD              | Department of Defense             |\n| ESDS             | Electrostatic Discharge Sensitive |\n| ETIMS            | Enhanced Technical                |\n|                  | Information Management System     |\n| HCI              | Hardness Critical                 |\n|                  | Items                             |\n| HRS              | Hot Refueling Supervisor          |\n| ITER             | Improved Triple Ejector Rack      |\n| JFS              | Jet Fuel Starter                  |\n| lbs              | pounds                            |\n| No.              | Number                            |\n| PSI              | pound-force per square inch       |\n| SN               | Serial Number                     |\n| SPR              | Single Point Receptacle           |\n| SPRM             | Single Point Receptacle Monitor   |\n| TCTO             | Time Compliance Technical Order   |\n| TO               | Technical Order                   |\n| TOMA             | Technical Order Management Agency |\n| US               | United States                     |\n| USAF             | United States Air Force           |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 2,
+      "asset_id": "tbl_TO 00-25-172CL-3_p2_67fd0df6",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p2_03a75372",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 3\n\n| 0                     | 1                                                           | 2   | 3         | 4     | 5     | 6                        | 7           | 8       |\n|:----------------------|:------------------------------------------------------------|:----|:----------|:------|:------|:-------------------------|:------------|:--------|\n| RELATED PUBLICATIONS. |                                                             |     |           |       |       |                          |             |         |\n|                       |                                                             |     |           | NOTE  |       |                          |             |         |\n|                       | When searching technical order (TO) numbers in the Enhanced |     |           |       |       |                          |             |         |\n| Technical             | Information Management System (ETIMS) catalog,              |     |           |       |       |                          |             |         |\n| please use            | the wildcard (*)                                            |     |           | after |       | typing in the TO number. |             |         |\n| Many TOs              | are                                                         | not | available | in    | paper | format,                  | (i.e.,      | digital |\n|                       | (WA-1) or Compact Disk (CD-1)). This                        |     |           |       |       |                          | ensures TOs | in all  |\n|                       | media formats will populate the search.                     |     |           |       |       |                          |             |         |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 2,
+      "asset_id": "tbl_TO 00-25-172CL-3_p2_03a75372",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p3_6a614423",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 4\n\n| 0                                                |\n|:-------------------------------------------------|\n| TO 00-25-172CL-3                                 |\n| List of Related Publications                     |\n| Number                                           |\n| Title                                            |\n| ASME Y14.38                                      |\n| Abbreviations and Acronyms for                   |\n| Use on Drawings and Related                      |\n| Documents                                        |\n| DODI 5330.03_AFI 33-395 Defense Logistics Agency |\n| (DLA) Document Services                          |\n| TO 00-5-1                                        |\n| AF Technical Order System                        |\n| TO 00-25-234                                     |\n| General Shop Practice Require-                   |\n| ments for                                        |\n| the Repair, Mainte-                              |\n| nance, and Test of Electrical                    |\n| Equipment                                        |\n| TO 00-25-172                                     |\n| Ground Servicing of Aircraft                     |\n| and Static Grounding/Bonding                     |\n| 5                                                |\n| RECORD OF APPLICABLE TIME COMPLIANCE TECHNICAL   |\n| ORDERS (TCTOs).                                  |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 3,
+      "asset_id": "tbl_TO 00-25-172CL-3_p3_6a614423",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p4_3348f5f1",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 5\n\n| 0                                                                       |\n|:------------------------------------------------------------------------|\n| TO 00-25-172CL-3                                                        |\n| 7                                                                       |\n| ELECTROSTATIC DISCHARGE SENSITIVE (ESDS)                                |\n| ITEMS.                                                                  |\n| All ESDS parts shall be handled in accordance with the ESDS             |\n| device handling procedures in TO 00-25-234.                             |\n| If                                                                      |\n| included,                                                               |\n| items                                                                   |\n| containing ESDS parts                                                   |\n| are marked with the ESDS                                                |\n| ).                                                                      |\n| symbol                                                                  |\n| (                                                                       |\n| 8                                                                       |\n| CHANGE RECOMMENDATIONS.                                                 |\n| Recommendations proposing changes to this technical order shall be sub- |\n| mitted on an Air Force Technical Order                                  |\n| (AFTO) Form 22 in accordance                                            |\n| with TO 00-5-1. Forward completed AFTO Form 22 to the Technical         |\n| Order Management Agency (TOMA) at: robins.ce.afto22@us.af.mil.          |\n| vi                                                                      |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 4,
+      "asset_id": "tbl_TO 00-25-172CL-3_p4_3348f5f1",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p5_8dec8e4b",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 6\n\n| 0                                                                       |\n|:------------------------------------------------------------------------|\n| SAFETY SUMMARY                                                          |\n| 1                                                                       |\n| GENERAL SAFETY INSTRUCTIONS.                                            |\n| This manual describes physical                                          |\n| and/or                                                                  |\n| chemical processes which may                                            |\n| cause injury or death to personnel, or damage to equipment,             |\n| if not prop-                                                            |\n| erly followed. This                                                     |\n| safety summary includes general                                         |\n| safety precautions                                                      |\n| and instructions                                                        |\n| that must be understood and applied during operation                    |\n| and maintenance to ensure personnel safety and protection of equipment. |\n| Prior to performing any specific task,                                  |\n| the WARNINGs, CAUTIONs, and                                             |\n| NOTEs included in that                                                  |\n| task shall be reviewed and understood.                                  |\n| 2                                                                       |\n| WARNINGS, CAUTIONS, AND NOTES.                                          |\n| WARNINGs and CAUTIONs are used in this manual                           |\n| to highlight oper-                                                      |\n| ating                                                                   |\n| or maintenance                                                          |\n| procedures,                                                             |\n| practices,                                                              |\n| conditions,                                                             |\n| or                                                                      |\n| statements                                                              |\n| which are considered essential                                          |\n| to protection of personnel (WARNING) or                                 |\n| equipment                                                               |\n| (CAUTION). WARNINGs and CAUTIONs immediately pre-                       |\n| cede the step or procedure to which they apply. WARNINGs and CAU-       |\n| TIONs consist of                                                        |\n| four parts: heading (WARNING, CAUTION, or                               |\n| icon),                                                                  |\n| a statement of                                                          |\n| the hazard, minimum precautions, and possible results if                |\n| disregarded. NOTEs                                                      |\n| are used in this manual                                                 |\n| to highlight operating or                                               |\n| maintenance procedures, practices, conditions, or                       |\n| statements which are                                                    |\n| not essential                                                           |\n| to protection of personnel or equipment. NOTEs may pre-                 |\n| cede or follow the step or procedure, depending upon the information to |\n| be highlighted. The headings used and their definitions are as follows: |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 5,
+      "asset_id": "tbl_TO 00-25-172CL-3_p5_8dec8e4b",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p6_b9ff62ef",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 7\n\n| 0                        | 1                                 | 2         | 3                                          | 4                  | 5            |\n|:-------------------------|:----------------------------------|:----------|:-------------------------------------------|:-------------------|:-------------|\n| Highlights               | an                                | essential | operating                                  | or maintenance     | procedure,   |\n| practice,                | condition,                        |           | statement,                                 | etc., which if not | strictly ob- |\n|                          | served, could result              |           | in damage to, or destruction of, equipment |                    |              |\n|                          | or loss of mission effectiveness. |           |                                            |                    |              |\n|                          |                                   |           | NOTE                                       |                    |              |\n| Highlights               | an                                | essential | operating                                  | or maintenance     | procedure,   |\n| condition, or statement. |                                   |           |                                            |                    |              |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 6,
+      "asset_id": "tbl_TO 00-25-172CL-3_p6_b9ff62ef",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p7_c894eae4",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 8\n\n| 0                                                                         |\n|:--------------------------------------------------------------------------|\n| GENERAL PRECAUTIONS.                                                      |\n| a. Hot                                                                    |\n| refueling will only be done by properly trained and qualified             |\n| personnel.                                                                |\n| b. Only United States Air Force (USAF)-approved hot refueling equip-      |\n| ment will be used.                                                        |\n| c. Do not hot                                                             |\n| refuel aircraft with a hot brake condition.                               |\n| d.                                                                        |\n| Prior                                                                     |\n| to hot                                                                    |\n| refueling, all external                                                   |\n| tanks, stores, and weapons must                                           |\n| be safed.                                                                 |\n| e. The Base Fire Chief will determine the location that                   |\n| the standby                                                               |\n| Aircraft Rescue and Firefighting (ARFF) will be postured.                 |\n| f. The maximum refueling pressure is 55 pound-force per square inch       |\n| (PSI).                                                                    |\n| g. Verify with the aircrew that                                           |\n| fuel has not been dumped (jettisoned)                                     |\n| on the previous flight. If fuel had been dumped and the position of       |\n| the dump valve is not positively known to be closed,                      |\n| then aircraft                                                             |\n| will not be hot refueled.                                                 |\n| h.                                                                        |\n| Intercom will be used if available. Otherwise,                            |\n| the hand signals in                                                       |\n| Figure 1-1 will be used.                                                  |\n| i. Aircraft high level shutoff valves must be pre-checked at              |\n| the begin-                                                                |\n| ning of                                                                   |\n| the hot                                                                   |\n| refueling operation.                                                      |\n| If                                                                        |\n| an aircraft                                                               |\n| fails                                                                     |\n| any pre-                                                                  |\n| check,                                                                    |\n| the aircraft can only be cold refueled.                                   |\n| j. During hot refueling, check that air is flowing from the aircraft fuel |\n| vent outlet(s) (except EF/F-18). Navy external tank vents are on the      |\n| bottoms of                                                                |\n| the external                                                              |\n| tanks.                                                                    |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 7,
+      "asset_id": "tbl_TO 00-25-172CL-3_p7_c894eae4",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p8_5e7f9895",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 9\n\n| 0                                                                       |\n|:------------------------------------------------------------------------|\n| TO 00-25-172CL-3                                                        |\n| k.                                                                      |\n| If sufficient grounding receptacles are not available, attach a ground- |\n| ing clamp to any unpainted metal surface.                               |\n| l. Avoid the tail hook area (bottom of fuselage near the aft end).      |\n| m. Do not                                                               |\n| touch any pitot                                                         |\n| tubes or probes which may be hot.                                       |\n| n. Avoid the areas underneath external                                  |\n| tanks or                                                                |\n| stores until                                                            |\n| they are                                                                |\n| safed.                                                                  |\n| o. Many United States (US) Navy hot refueling operations employ the     |\n| use of emergency dry-break disconnect devices for rapid taxi away       |\n| in emergencies. USAF bases do not use this device, so NAVY pi-          |\n| lots must be                                                            |\n| advised beforehand on current USAF hot                                  |\n| refueling                                                               |\n| emergency procedures.                                                   |\n| 1-2                                                                     |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 8,
+      "asset_id": "tbl_TO 00-25-172CL-3_p8_5e7f9895",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p9_ef9daf5c",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 10\n\n| 0           | 1                                | 2                |\n|:------------|:---------------------------------|:-----------------|\n|             |                                  | TO 00-25-172CL-3 |\n| Figure 1-1. | Navy Hand Signals (Sheet 1 of 3) |                  |\n|             |                                  | 1-3              |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 9,
+      "asset_id": "tbl_TO 00-25-172CL-3_p9_ef9daf5c",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p10_86934803",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 11\n\n| 0                | 1           | 2                           |\n|:-----------------|:------------|:----------------------------|\n| TO 00-25-172CL-3 |             |                             |\n|                  | Figure 1-1. | Navy Hand Signals (Sheet 2) |\n| 1-4              |             |                             |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 10,
+      "asset_id": "tbl_TO 00-25-172CL-3_p10_86934803",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p11_9f697791",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 12\n\n| 0           | 1                           |\n|:------------|:----------------------------|\n|             | TO 00-25-172CL-3            |\n| Figure 1-1. | Navy Hand Signals (Sheet 3) |\n|             | 1-5/(1-6 blank)             |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 11,
+      "asset_id": "tbl_TO 00-25-172CL-3_p11_9f697791",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p12_9a3ba9e5",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 13\n\n| 0                                                               |\n|:----------------------------------------------------------------|\n| EMERGENCY PROCEDURES.                                           |\n| If a fire or                                                    |\n| fuel                                                            |\n| leak occurs at                                                  |\n| the aircraft:                                                   |\n| (1)                                                             |\n| Stop fuel flow at                                               |\n| the source.                                                     |\n| (2) Notify the aircrew of                                       |\n| the emergency and to stop aircraft en-                          |\n| gine(s) and Auxiliary Power Units (APUs).                       |\n| (3) Notify the fire department.                                 |\n| (4) Evacuate all personnel                                      |\n| (including the aircrew other                                    |\n| than fire                                                       |\n| guards).                                                        |\n| (5)                                                             |\n| If                                                              |\n| leak: Fire guards will                                          |\n| stand by with portable extinguisher                             |\n| nozzles in hand until                                           |\n| the fire department arrives.                                    |\n| (6)                                                             |\n| If fire: Fire guards will attempt                               |\n| to extinguish the fire until fire                               |\n| department arrives or until munitions are engulfed in flame (in |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 12,
+      "asset_id": "tbl_TO 00-25-172CL-3_p12_9a3ba9e5",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p13_92855bfb",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 14\n\n| 0                                                                           |\n|:----------------------------------------------------------------------------|\n| CHAPTER 2                                                                   |\n| EA/A-6 HOT REFUELING PROCEDURES                                             |\n| 2.1                                                                         |\n| EA/A-6 HOT REFUELING PROCEDURES.                                            |\n| The Single Point Receptacle (SPR)                                           |\n| is                                                                          |\n| located on the lower part of                                                |\n| the                                                                         |\n| right engine nacelle about 2.5 feet aft of                                  |\n| the engine inlet. The fueling                                               |\n| control panel                                                               |\n| (station)                                                                   |\n| is                                                                          |\n| immediately aft of                                                          |\n| the right nacelle boarding                                                  |\n| ladder at approximately eye level. Figure 2-1 shows the refueling station   |\n| switches                                                                    |\n| that control                                                                |\n| fuel flow into the three fuselage tanks, five wing                          |\n| tanks, and up to four external                                              |\n| tanks. Total                                                                |\n| internal                                                                    |\n| fuel capacity is 2344                                                       |\n| gallons; each external                                                      |\n| fuel                                                                        |\n| tank holds an additional 300 gallons. Aircraft                              |\n| fuel dump outlets are located on the wing trailing edges near the wingtips  |\n| and at                                                                      |\n| the aft end of the fuselage. Fuel vent outlets are located in the aft       |\n| fuselage                                                                    |\n| and on the undersides of                                                    |\n| the wings near                                                              |\n| the wingtips.                                                               |\n| (The                                                                        |\n| wingtip vents are used only when the wings are folded). Three fuel          |\n| tank                                                                        |\n| over-pressurization lights are located on the fueling station door          |\n| to warn                                                                     |\n| of                                                                          |\n| impending fuel                                                              |\n| tank over-pressurization. The aircraft has no on board                      |\n| Auxiliary Power Unit                                                        |\n| (APU) or self-start capability, but one engine can                          |\n| start                                                                       |\n| the other. The A-6 aircraft SPR panel receives electrical power from        |\n| the right engine only,                                                      |\n| so A-6 aircraft cannot be hot                                               |\n| refueled at United                                                          |\n| States Air Force (USAF) bases until the entire fleet is modified to provide |\n| electrical power to the SPR panel from the left engine. EA-6 aircraft can   |\n| be hot                                                                      |\n| refueled with the right engine shut down because the left engine            |\n| can provide electrical power                                                |\n| to the SPR panel.                                                           |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 13,
+      "asset_id": "tbl_TO 00-25-172CL-3_p13_92855bfb",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p14_14014702",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 15\n\n| 0   | 1                                                               |\n|:----|:----------------------------------------------------------------|\n| \u2022   |                                                                 |\n|     | Do not hot refuel following aerial refueling operations until   |\n|     | a positive check has been made to ascertain the aerial refu-    |\n|     | eling probe has not been damaged. Failure to comply could       |\n|     | result in injury to, or death of, personnel or long term health |\n|     | hazards.                                                        |\n| \u2022   |                                                                 |\n|     | During refueling,                                               |\n|     | tank overpressure indicator                                     |\n|     | lights on the                                                   |\n|     | fueling station door must be monitored to prevent rupture of    |\n|     | the fuel                                                        |\n|     | tanks. If one or more of these lights illuminate dur-           |\n|     | ing fueling,                                                    |\n|     | refueling must be stopped immediately and the                   |\n|     | cause of the overpressure must be corrected before refueling    |\n|     | may be resumed. Failure to comply could result in injury to,    |\n|     | or death of, personnel or long term health hazards.             |\n| \u2022   |                                                                 |\n|     | Only EA-6 aircraft can be hot refueled at USAF bases. Fail-     |\n|     | ure to comply could result                                      |\n|     | in injury to, or death of, person-                              |\n|     | nel or long term health hazards.                                |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 14,
+      "asset_id": "tbl_TO 00-25-172CL-3_p14_14014702",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p15_c15ee2b6",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 16\n\n| 0   | 1                                  | 2                                     |\n|:----|:-----------------------------------|:--------------------------------------|\n|     |                                    | TO 00-25-172CL-3                      |\n|     | erly seated and that a fuel spill  | is likely to occur during the refuel- |\n|     | ing cycle. Do not proceed with hot | refueling,                            |\n|     |                                    | if                                    |\n|     |                                    | the bullet plug is                    |\n|     | not properly aligned.              |                                       |\n| g.  | Signal                             |                                       |\n|     | the aircrew to spread wings.       |                                       |\n| h.  | Signal                             | refueling area.                       |\n|     | the aircrew to taxi                |                                       |\n|     | to the hot                         |                                       |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 15,
+      "asset_id": "tbl_TO 00-25-172CL-3_p15_c15ee2b6",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p16_86ff49ef",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 17\n\n| 0           | 1                         | 2   | 3   |\n|:------------|:--------------------------|:----|:----|\n| Figure 2-1. | A-6 Fueling Station Panel |     |     |\n|             |                           |     |     |\n|             |                           |     |     |\n|             |                           |     |     |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 16,
+      "asset_id": "tbl_TO 00-25-172CL-3_p16_86ff49ef",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p17_e3531d13",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 18\n\n| 0                                                    |\n|:-----------------------------------------------------|\n| TO 00-25-172CL-3                                     |\n| REFUELING.                                           |\n| a.                                                   |\n| Position the aircraft on the hot refueling pit.      |\n| b. Chock and ground (clamp) the aircraft.            |\n| c.                                                   |\n| If available, connect                                |\n| the intercom (usually at                             |\n| the SPR panel).                                      |\n| d. Ensure DUMP circuit breaker                       |\n| (on nose wheel well circuit breaker                  |\n| panel)                                               |\n| is engaged (A-6 only).                               |\n| e.                                                   |\n| Prior                                                |\n| to refueling, check that no air                      |\n| is flowing from the external                         |\n| fuel                                                 |\n| tank vents (on the bottom of                         |\n| the external                                         |\n| tanks). This verifies                                |\n| that engine bleed air is not pressurizing the tanks. |\n| f. On                                                |\n| the FUELING STATION panel,                           |\n| set                                                  |\n| the POWER switch                                     |\n| to                                                   |\n| FUEL,                                                |\n| and                                                  |\n| set                                                  |\n| the WING TANKS,                                      |\n| FUS TANKS,                                           |\n| and DROP                                             |\n| TANKS switches to FUEL.                              |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 17,
+      "asset_id": "tbl_TO 00-25-172CL-3_p17_e3531d13",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p18_ef926eab",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 19\n\n| 0                                                                  | 1                                          |\n|:-------------------------------------------------------------------|:-------------------------------------------|\n| Prior to pressurizing the fuel source, verify the nozzle is locked |                                            |\n| onto the aircraft by attempting to remove the nozzle with the      |                                            |\n| flow handle open.                                                  | If you can remove the nozzle, do not start |\n| the                                                                | the nozzle                                 |\n| refueling until                                                    | is                                         |\n|                                                                    | replaced. Failure                          |\n|                                                                    | to comply                                  |\n| could result                                                       | in injury to, or death of, personnel or    |\n|                                                                    | long term                                  |\n| health hazards.                                                    |                                            |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 18,
+      "asset_id": "tbl_TO 00-25-172CL-3_p18_ef926eab",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p18_db091960",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 19\n\n| 0                                                                       |\n|:------------------------------------------------------------------------|\n| the                                                                     |\n| refueling until                                                         |\n| the nozzle                                                              |\n| is                                                                      |\n| replaced. Failure                                                       |\n| to comply                                                               |\n| could result                                                            |\n| in injury to, or death of, personnel or                                 |\n| long term                                                               |\n| health hazards.                                                         |\n| j. Remove the dust cap from the fueling adapter and connect             |\n| the fu-                                                                 |\n| eling nozzle to the adapter and open the flow handle. Attempt           |\n| to                                                                      |\n| remove the nozzle with the flow handle in the open position.            |\n| k.                                                                      |\n| Start fueling the aircraft; immediately set and hold the SOL CHECK      |\n| switch to PRI. All WING TANKS PRI, FUS TANKS PRI,                       |\n| and                                                                     |\n| DROP TANKS PRI indicators should go out and fueling automati-           |\n| cally stop prior to the aircraft receiving 45 gallons of fuel (10 to 15 |\n| seconds).                                                               |\n| If                                                                      |\n| this does not occur, discontinue the fueling operation.                 |\n| l. When the fuel flow stops, check flow rate. If the flow rate exceeds  |\n| 3 gallons or 20 pounds per minute,                                      |\n| shut off                                                                |\n| the fueling unit and                                                    |\n| disconnect                                                              |\n| the fuel nozzle.                                                        |\n| m. On the FUELING STATION panel, set the DROP TANKS switches            |\n| to HOLD and release the SOL CHECK switch.                               |\n| n. When                                                                 |\n| the                                                                     |\n| fuel                                                                    |\n| flow starts,                                                            |\n| immediately                                                             |\n| set                                                                     |\n| and                                                                     |\n| hold                                                                    |\n| the                                                                     |\n| SOL                                                                     |\n| CHECK switch to SEC. All WING TANK SEC and FUS TANKS                    |\n| SEC indicators                                                          |\n| should go out and fueling will automatically stop                       |\n| prior                                                                   |\n| to aircraft                                                             |\n| receiving 30 gallons or 200 pounds of                                   |\n| fuel.                                                                   |\n| If                                                                      |\n| this                                                                    |\n| does not occur, discontinue the fueling operation.                      |\n| o. When the fuel flow stops, check flow rate. If the flow rate exceeds  |\n| 3 gallons or 20 pounds per minute,                                      |\n| shut off                                                                |\n| the fueling unit and                                                    |\n| disconnect                                                              |\n| the fuel nozzle.                                                        |\n| p. On the FUELING STATION panel, set the WING TANKS switches            |\n| to HOLD and release the SOL CHECK switch.                               |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 18,
+      "asset_id": "tbl_TO 00-25-172CL-3_p18_db091960",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p19_7467e304",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 20\n\n| 0                                                               | 1                    |\n|:----------------------------------------------------------------|:---------------------|\n| as the tanks fill.)                                             |                      |\n| If any of                                                       | illuminate during    |\n| the three high pressure indicators                              |                      |\n| the fueling, fueling must be stopped immediately and the cause  |                      |\n| of the vent system overpressure corrected before the fueling is |                      |\n| resumed. Failure to comply could result                         | in damage to, or de- |\n| struction of, equipment or loss of mission effectiveness.       |                      |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 19,
+      "asset_id": "tbl_TO 00-25-172CL-3_p19_7467e304",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p20_3b5e847b",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 21\n\n| 0                                                                         |\n|:--------------------------------------------------------------------------|\n| CHAPTER 3                                                                 |\n| E-2 HOT REFUELING                                                         |\n| 3.1                                                                       |\n| E-2 HOT REFUELING.                                                        |\n| The Single Point Receptacle (SPR) and refueling control panel             |\n| (Figure                                                                   |\n| 3-1) are located on the inboard side of the right engine nacelle. The NOT |\n| FULL lights                                                               |\n| illuminate                                                                |\n| to indicate                                                               |\n| fuel                                                                      |\n| is flowing into the                                                       |\n| tank. The                                                                 |\n| pre-check will                                                            |\n| test both the primary and secondary floats                                |\n| in each high                                                              |\n| level shutoff valve. Fuel                                                 |\n| is carried in two wing tanks with a total capacity                        |\n| of 824 gallons. There are no external                                     |\n| fuel                                                                      |\n| tanks or weapons. The fuel                                                |\n| vent and dump outlets are at                                              |\n| the extreme aft end of the fuselage. If a tank                            |\n| overfills,                                                                |\n| the vent system cannot handle the excess flow, so the fuel will           |\n| spray from one of                                                         |\n| the fuel                                                                  |\n| tank relief valves on top of                                              |\n| the wing at                                                               |\n| the                                                                       |\n| outboard end of                                                           |\n| the fuel                                                                  |\n| tank. This sprayed fuel might                                             |\n| reach an engine                                                           |\n| exhaust,                                                                  |\n| so to further prevent overfilling,                                        |\n| refuel flow must be                                                       |\n| stopped                                                                   |\n| when the pilot signals a tank has reached 200 pounds less than full. The  |\n| aircraft has no on board Auxiliary Power Unit                             |\n| (APU)                                                                     |\n| and except                                                                |\n| for                                                                       |\n| newer models, one                                                         |\n| engine                                                                    |\n| cannot                                                                    |\n| start                                                                     |\n| the other. Therefore,                                                     |\n| a ground                                                                  |\n| power cart                                                                |\n| is needed.                                                                |\n| CURSORY INSPECTION.                                                       |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 20,
+      "asset_id": "tbl_TO 00-25-172CL-3_p20_3b5e847b",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p20_4b3610e7",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 21\n\n| 0                                                  |\n|:---------------------------------------------------|\n| The E-2 is                                         |\n| a                                                  |\n| turboprop aircraft. Be                             |\n| constantly aware of                                |\n| the                                                |\n| rotating propellers. Do not walk forward of        |\n| the wings unless                                   |\n| you are outboard of the wingtips. Due to propwash, |\n| the Single                                         |\n| Point Receptacle Monitor                           |\n| (SPRM) must wear eye protection.                   |\n| Failure to comply could result                     |\n| in injury to, or death of, person-                 |\n| nel or                                             |\n| long term health hazards.                          |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 20,
+      "asset_id": "tbl_TO 00-25-172CL-3_p20_4b3610e7",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p21_76f7460f",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 22\n\n| 0   | 1                                                             |\n|:----|:--------------------------------------------------------------|\n| \u2022   |                                                               |\n|     | Due                                                           |\n|     | to the                                                        |\n|     | crash fire                                                    |\n|     | rescue                                                        |\n|     | limitations with E-2 aircraft                                 |\n|     | with wings folded,                                            |\n|     | this aircraft will not be hot                                 |\n|     | refueled un-                                                  |\n|     | less the wings are in the fully extended position. Failure to |\n|     | comply could result                                           |\n|     | in injury to, or death of, personnel or                       |\n|     | long term health hazards.                                     |\n| \u2022   |                                                               |\n|     | Ensure the area is clear prior                                |\n|     | to spreading (unfolding)                                      |\n|     | the                                                           |\n|     | wings. Failure to comply could result                         |\n|     | in injury to, or death                                        |\n|     | of, personnel or                                              |\n|     | long term health hazards.                                     |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 21,
+      "asset_id": "tbl_TO 00-25-172CL-3_p21_76f7460f",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p21_a0a49621",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 22\n\n| 0                                                            |\n|:-------------------------------------------------------------|\n| \u2022                                                            |\n| Ensure the area is clear prior                               |\n| to spreading (unfolding)                                     |\n| the                                                          |\n| wings. Failure to comply could result                        |\n| in injury to, or death                                       |\n| of, personnel or                                             |\n| long term health hazards.                                    |\n| b.                                                           |\n| Signal                                                       |\n| the aircrew to spread the wings.                             |\n| c. Check for hot brakes. When moving from one wheel          |\n| to the other,                                                |\n| walk to the wingtips prior                                   |\n| to going forward. Walk well                                  |\n| in front of                                                  |\n| the aircraft.                                                |\n| d. Verify the fuel dump (jettison) valve is closed.          |\n| e.                                                           |\n| Signal                                                       |\n| the aircrew to shut down the right engine.                   |\n| f.                                                           |\n| Signal                                                       |\n| the pilot                                                    |\n| to taxi                                                      |\n| to the hot                                                   |\n| refueling area.                                              |\n| REFUELING.                                                   |\n| a.                                                           |\n| Position the aircraft on the hot refueling pit.              |\n| b. Chock and ground the aircraft.                            |\n| (Grounding receptacles are located                           |\n| near the SPR and on the right center fuselage at eye level.) |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 21,
+      "asset_id": "tbl_TO 00-25-172CL-3_p21_a0a49621",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p22_68aad8d1",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 23\n\n| 0                                                                     |\n|:----------------------------------------------------------------------|\n| TO 00-25-172CL-3                                                      |\n| Avoid the cooling fan on the fuselage,                                |\n| just                                                                  |\n| inboard of the SPR.                                                   |\n| Failure to comply could result                                        |\n| in damage to, or destruction of,                                      |\n| equipment or                                                          |\n| loss of mission effectiveness.                                        |\n| c. Open the PRESS FUE STA access door                                 |\n| (inboard side of                                                      |\n| right en-                                                             |\n| gine nacelle) and check the left and right strainer bypass lights.    |\n| If                                                                    |\n| either                                                                |\n| is                                                                    |\n| illuminated,                                                          |\n| signal                                                                |\n| the aircrew to shut down the left en-                                 |\n| gine, and notify aircrew of                                           |\n| the situation.                                                        |\n| d. Ground the refueling equipment and bond to the aircraft. Route the |\n| refueling equipment behind the right main landing gear.               |\n| Prior to pressurizing the fuel source, verify the nozzle is locked    |\n| onto the aircraft by attempting to remove the nozzle with the         |\n| flow handle open.                                                     |\n| If you can remove the nozzle, do not start                            |\n| refueling until                                                       |\n| the nozzle is replaced. Failure to comply could                       |\n| result                                                                |\n| in injury to, or death of, personnel or                               |\n| long term health                                                      |\n| hazards.                                                              |\n| e. Remove the dust cap from the pressure fueling adaptor, and con-    |\n| nect                                                                  |\n| the fueling nozzle. Rotate the nozzle flow handle to the open         |\n| position and attempt                                                  |\n| to remove the nozzle.                                                 |\n| f. Begin the fueling. Both NOT FULL lights should illuminate indi-    |\n| cating that                                                           |\n| fuel                                                                  |\n| is entering the tanks.                                                |\n| g. Hold the left TANK PRE-CHECK switch to PRIM. After                 |\n| the left                                                              |\n| NOT FULL LIGHT goes out                                               |\n| (approximately 3 seconds later) hold                                  |\n| the right TANK PRE-CHECK switch to SEC. After the right NOT           |\n| FULL LIGHT goes out,                                                  |\n| the fueling should terminate,                                         |\n| if                                                                    |\n| this does                                                             |\n| not occur, discontinue the refueling operation.                       |\n| If                                                                    |\n| fuel flow stops,                                                      |\n| release the switches and continue fueling.                            |\n| 3-3                                                                   |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 22,
+      "asset_id": "tbl_TO 00-25-172CL-3_p22_68aad8d1",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p23_ded6149d",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 24\n\n| 0                                                             |\n|:--------------------------------------------------------------|\n| Because failure of a fuel shutoff valve could result          |\n| in fuel be-                                                   |\n| ing sprayed from the fuel                                     |\n| tank pressure relief valve (on top of                         |\n| the wing above each nacelle) onto the hot exhaust area of     |\n| the                                                           |\n| tailpipe,                                                     |\n| the possibility of causing a fire exists. Hot                 |\n| refueling                                                     |\n| must be stopped when either tank reaches 200 pounds less than |\n| full. Failure to comply could result                          |\n| in injury to, or death of,                                    |\n| personnel or long term health hazards.                        |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 23,
+      "asset_id": "tbl_TO 00-25-172CL-3_p23_ded6149d",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p24_685d376b",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 25\n\n| 0                                      | 1         | 2                           |\n|:---------------------------------------|:----------|:----------------------------|\n|                                        |           | TO 00-25-172CL-3            |\n| o. Remove the grounding/bonding wires. |           |                             |\n| p. Remove the chocks and signal        | the pilot | to taxi away from the area. |\n|                                        |           | 3-5                         |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 24,
+      "asset_id": "tbl_TO 00-25-172CL-3_p24_685d376b",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p25_1cd157de",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 26\n\n| 0                | 1           | 2                                       |\n|:-----------------|:------------|:----------------------------------------|\n| TO 00-25-172CL-3 |             |                                         |\n|                  | Figure 3-1. | E-2 Refueling Provisions (Sheet 1 of 2) |\n| 3-6              |             |                                         |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 25,
+      "asset_id": "tbl_TO 00-25-172CL-3_p25_1cd157de",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p26_4069c573",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 27\n\n| 0           | 1                                  |\n|:------------|:-----------------------------------|\n|             | TO 00-25-172CL-3                   |\n| Figure 3-1. | E-2 Refueling Provisions (Sheet 2) |\n|             | 3-7/(3-8 blank)                    |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 26,
+      "asset_id": "tbl_TO 00-25-172CL-3_p26_4069c573",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p27_036b38a8",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 28\n\n| 0                                                                          |\n|:---------------------------------------------------------------------------|\n| CHAPTER 4                                                                  |\n| F-14 HOT REFUELING PROCEDURES                                              |\n| 4.1                                                                        |\n| F-14 HOT REFUELING PROCEDURES.                                             |\n| The Single Point Receptacle (SPR) is on the right side of the fuselage at  |\n| eye level and 16 feet                                                      |\n| forward of                                                                 |\n| the right engine inlet. The SPR panel                                      |\n| (Figure                                                                    |\n| 4-1)                                                                       |\n| includes                                                                   |\n| a REFUEL/TRANSFER switch,                                                  |\n| two                                                                        |\n| pre-check                                                                  |\n| switches (FUS TANKS and WING/EXT TANKS) and a fuel vent pres-              |\n| sure gauge. The fuel vent pressure gauge consists of a pointer on a scale  |\n| having a green (safe) band and a red (danger) band. The aircraft has eight |\n| fuselage fuel                                                              |\n| tanks two wing box tanks,                                                  |\n| two integral wing tanks, and two                                           |\n| external                                                                   |\n| fuel                                                                       |\n| tanks. Total                                                               |\n| internal capacity is 2385 gallons, while each                              |\n| external                                                                   |\n| tank holds 267 gallons.                                                    |\n| 4.1.1                                                                      |\n| Aircraft Fuel Dump (Jettison) Outlet. The aircraft                         |\n| fuel dump                                                                  |\n| (jettison) outlet                                                          |\n| is                                                                         |\n| located on the boat                                                        |\n| tail between and forward of                                                |\n| the                                                                        |\n| engine exhausts. The internal                                              |\n| fuel                                                                       |\n| tanks are vented through an outlet on                                      |\n| the bottom of the fuselage just forward of the tail hook pivot. The exter- |\n| nal                                                                        |\n| fuel                                                                       |\n| tanks are vented through outlets on the tank bottoms.                      |\n| 4.1.2                                                                      |\n| Refueling. The aircraft has no on board auxiliary power unit or            |\n| selfstart capability, but either engine can start                          |\n| the other. Refueling can be                                                |\n| done with the wings swept                                                  |\n| forward or aft.                                                            |\n| CURSORY INSPECTION.                                                        |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 27,
+      "asset_id": "tbl_TO 00-25-172CL-3_p27_036b38a8",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p28_70e46295",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 29\n\n| 0                                                                  |\n|:-------------------------------------------------------------------|\n| Prior to pressurizing the fuel source, verify the nozzle is locked |\n| onto the aircraft by attempting to remove the nozzle with the      |\n| flow handle open.                                                  |\n| If you can remove the nozzle, do not start                         |\n| refueling until                                                    |\n| the nozzle is replaced. Failure to comply could                    |\n| result                                                             |\n| in injury to, or death of, personnel or                            |\n| long term health                                                   |\n| hazards.                                                           |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 28,
+      "asset_id": "tbl_TO 00-25-172CL-3_p28_70e46295",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p29_1ed80384",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 30\n\n| 0                       | 1                                                                       |\n|:------------------------|:------------------------------------------------------------------------|\n|                         | TO 00-25-172CL-3                                                        |\n| i. Begin the fuel flow. |                                                                         |\n| j.                      | Pre-check the refuel system. Place both selector valves to the STOP     |\n|                         | FUEL position at                                                        |\n|                         | the same time. Fuel flow should stop within 30                          |\n|                         | seconds. If this does not occur, discontinue the refueling operation.   |\n| k.                      | Place both selector valves to the FUEL position, and continue the       |\n|                         | refueling.                                                              |\n|                         | l. Check for air flow from the fuel vents, airflow should be present as |\n|                         | the tanks fill. Avoid the tail hook area.                               |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 29,
+      "asset_id": "tbl_TO 00-25-172CL-3_p29_1ed80384",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p30_c6f63cd7",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 31\n\n| 0                | 1           | 2        |\n|:-----------------|:------------|:---------|\n| TO 00-25-172CL-3 |             |          |\n|                  | Figure 4-1. | F-14 SPR |\n| 4-4              |             |          |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 30,
+      "asset_id": "tbl_TO 00-25-172CL-3_p30_c6f63cd7",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p31_7fc789d0",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 32\n\n| 0                                                                          |\n|:---------------------------------------------------------------------------|\n| CHAPTER 5                                                                  |\n| EF/F-18 HOT REFUELING PROCEDURES                                           |\n| 5.1                                                                        |\n| EF/F-18 HOT REFUELING PROCEDURES.                                          |\n| The Single Point Receptacle (SPR)                                          |\n| is on the right                                                            |\n| side of                                                                    |\n| the forward                                                                |\n| fuselage about 17 feet forward of the right engine inlet. Figure 5-1 shows |\n| the SPR panel which includes precheck switches,                            |\n| a                                                                          |\n| rotating fuel flow                                                         |\n| indicator, and a tank pressure gauge (with a green safe zone and a red     |\n| danger                                                                     |\n| zone). F-18C/D aircraft                                                    |\n| also include                                                               |\n| a REFUEL TEST switch                                                       |\n| (which will not be used during hot                                         |\n| refueling) and a VENT TANK WET                                             |\n| light with a test switch.                                                  |\n| 5.1.1                                                                      |\n| Fuel Dump Outlets. The fuel dump outlets are on the trailing               |\n| edges of                                                                   |\n| the vertical stabilizers, while the external                               |\n| tanks have their own                                                       |\n| vents at                                                                   |\n| the tank bottoms. Total                                                    |\n| internal                                                                   |\n| fuel capacity (in four                                                     |\n| fuselage                                                                   |\n| tanks and two wet wing tanks)                                              |\n| is 1589 gallons. Each of                                                   |\n| three external                                                             |\n| tanks carries 315 or 330 gallons.                                          |\n| 5.1.2                                                                      |\n| Self-Start. The aircraft has a self-start capability provided by an        |\n| on board Jet Fuel Starter                                                  |\n| (JFS) which is not operated during refueling.                              |\n| CURSORY INSPECTION.                                                        |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 31,
+      "asset_id": "tbl_TO 00-25-172CL-3_p31_7fc789d0",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p32_a5fbaa70",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 33\n\n| 0                                                              |\n|:---------------------------------------------------------------|\n| When the                                                       |\n| right                                                          |\n| engine                                                         |\n| is operating, keep all personnel                               |\n| and                                                            |\n| refueling equipment at                                         |\n| least 15 feet from the engine intake. Do                       |\n| not allow the right engine to be operated above the idle power |\n| setting. Failure to comply could result                        |\n| in injury to, or death of,                                     |\n| personnel or long term health hazards.                         |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 32,
+      "asset_id": "tbl_TO 00-25-172CL-3_p32_a5fbaa70",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p33_35f964f1",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 34\n\n| 0                           | 1                                                                   |\n|:----------------------------|:--------------------------------------------------------------------|\n|                             | TO 00-25-172CL-3                                                    |\n| h.                          | (F-18C/D only.) Press                                               |\n|                             | the VENT TANK SNSR TEST switch and                                  |\n|                             | observe the VENT TANK WET light                                     |\n|                             | illuminate. If the light fails to                                   |\n|                             | illuminate, do not hot                                              |\n|                             | refuel                                                              |\n|                             | the aircraft.                                                       |\n|                             | i. Begin fuel flow and place the red master pre-check handle to the |\n|                             | UP PRE-CHECK position.                                              |\n| j. Approximately 30 seconds | later, place the external                                           |\n|                             | fuel                                                                |\n|                             | tank pre-                                                           |\n|                             | check switches to the pre-check positions:                          |\n|                             | (1) On F-18A/B Serial Number (SN) 161353 through SN 161761,         |\n|                             | press and hold the L, R, and C, F TK CHECK switches.                |\n|                             | (2) On F-18A/B SN 161924 and up, press and hold the EXT TX          |\n|                             | PRCHKSW.                                                            |\n|                             | k. On F-18C/D, press and hold the EXT TANK PRE CHK switch to        |\n|                             | pre-check.                                                          |\n| l.                          | Fuel flow should stop 10 to 30 seconds later                        |\n|                             | (check the fuel flow                                                |\n|                             | indicator).                                                         |\n|                             | If                                                                  |\n|                             | the fuel flow does not stop, discontinue the hot                    |\n|                             | refu-                                                               |\n|                             | eling.                                                              |\n| m. Release                  | the                                                                 |\n|                             | external                                                            |\n|                             | fuel                                                                |\n|                             | tank pre-check switches                                             |\n|                             | and place                                                           |\n|                             | the                                                                 |\n|                             | master pre-check handle                                             |\n|                             | to the DOWN OFF position. Fuel flow                                 |\n|                             | should begin.                                                       |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 33,
+      "asset_id": "tbl_TO 00-25-172CL-3_p33_35f964f1",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p34_d0927f0b",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 35\n\n| 0                                                                 |\n|:------------------------------------------------------------------|\n| TO 00-25-172CL-3                                                  |\n| Monitor                                                           |\n| the fuel                                                          |\n| tank pressure indicator and stop all                              |\n| refueling                                                         |\n| flow if the indicator shows red. Failure to comply could result   |\n| in injury to, or death of, personnel or long term health hazards. |\n| o. Monitor the fuel                                               |\n| tank pressure indicator during refueling.                         |\n| (F-18C/D only.)                                                   |\n| If                                                                |\n| the VENT TANK WET light                                           |\n| illuminates,                                                      |\n| fuel may spill from the vent outlet(s). Failure to comply could   |\n| result                                                            |\n| in injury to, or death of, personnel or                           |\n| long term health                                                  |\n| hazards.                                                          |\n| p.                                                                |\n| (F-18C/D only.) Monitor the VENT TANK WET light. If it            |\n| illumi-                                                           |\n| nates,                                                            |\n| immediately discontinue the hot                                   |\n| refueling.                                                        |\n| q. Check the external                                             |\n| fuel                                                              |\n| tank vents for airflow as the tanks fill.                         |\n| r. When the fuel flow stops, shut off                             |\n| the fuel at                                                       |\n| the source and dis-                                               |\n| connect                                                           |\n| the nozzle. Replace the dust cap on the SPR adaptor.              |\n| s. Remove the grounding/bonding wires.                            |\n| t. Disconnect                                                     |\n| the intercom and close door No. 8. Do not catch the               |\n| SPR dust cap chain in the door.                                   |\n| u. Remove the chocks and signal                                   |\n| the aircrew to taxi away from the                                 |\n| area.                                                             |\n| 5-4                                                               |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 34,
+      "asset_id": "tbl_TO 00-25-172CL-3_p34_d0927f0b",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p35_6d2ef139",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 36\n\n| 0           | 1                                        | 2                |\n|:------------|:-----------------------------------------|:-----------------|\n|             |                                          | TO 00-25-172CL-3 |\n| Figure 5-1. | F-18 Refueling Provisions (Sheet 1 of 2) |                  |\n|             |                                          | 5-5              |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 35,
+      "asset_id": "tbl_TO 00-25-172CL-3_p35_6d2ef139",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p36_e8ff227e",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 37\n\n| 0                | 1           | 2                                   |\n|:-----------------|:------------|:------------------------------------|\n| TO 00-25-172CL-3 |             |                                     |\n|                  | Figure 5-1. | F-18 Refueling Provisions (Sheet 2) |\n| 5-6              |             |                                     |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 36,
+      "asset_id": "tbl_TO 00-25-172CL-3_p36_e8ff227e",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p37_76c6d9cc",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 38\n\n| 0           | 1                                   |\n|:------------|:------------------------------------|\n|             | TO 00-25-172CL-3                    |\n| Figure 5-2. | F-18 External Tank Safing Mechanism |\n|             | 5-7/(5-8 blank)                     |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 37,
+      "asset_id": "tbl_TO 00-25-172CL-3_p37_76c6d9cc",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p38_d77f6e11",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 39\n\n| 0                                                                             |\n|:------------------------------------------------------------------------------|\n| CHAPTER 6                                                                     |\n| S-3 HOT REFUELING PROCEDURE                                                   |\n| 6.1                                                                           |\n| S-3 HOT REFUELING PROCEDURE.                                                  |\n| The Single Point Receptacle                                                   |\n| (SPR)                                                                         |\n| is                                                                            |\n| located on the                                                                |\n| right                                                                         |\n| side of                                                                       |\n| the                                                                           |\n| fuselage                                                                      |\n| immediately aft of                                                            |\n| the main landing gear well                                                    |\n| (Figure 6-1).                                                                 |\n| Manual pre-check controls and the tank pressure gauge are located in the      |\n| right main wheel well \"around the corner\" from the SPR. The aircraft can      |\n| carry 1933 gallons in four                                                    |\n| internal                                                                      |\n| fuel                                                                          |\n| tanks in the center wing section                                              |\n| (inboard of                                                                   |\n| the wing folds) and 265 gallons in each of                                    |\n| two external                                                                  |\n| fuel                                                                          |\n| tanks. The external                                                           |\n| tanks have no pre-check capability, but can be hot                            |\n| refueled. Internal tanks are vented through a single outlet at the aft end of |\n| the fuselage, while the external                                              |\n| tanks are vented at                                                           |\n| the tank bottoms. A                                                           |\n| single fuel dump (jettison) chute is located at                               |\n| the fuselage aft end.                                                         |\n| 6.1.1                                                                         |\n| Auxiliary Power Unit (APU). The aircraft has an on board APU                  |\n| with an exhaust port on the fuselage left side (near                          |\n| the running engine).                                                          |\n| The APU can be running during hot                                             |\n| refueling. The right engine is shut                                           |\n| down during hot                                                               |\n| refueling.                                                                    |\n| 6.1.2                                                                         |\n| Refueling. The                                                                |\n| aircraft                                                                      |\n| carries                                                                       |\n| up                                                                            |\n| to                                                                            |\n| 46                                                                            |\n| sonobuoys                                                                     |\n| that                                                                          |\n| are                                                                           |\n| launched from tubes on the bottom aft                                         |\n| fuselage. Prior                                                               |\n| to refueling,                                                                 |\n| these                                                                         |\n| sonobuoys are safed by opening a small door just forward of the left hand     |\n| sonobuoy chutes. The door has a link that operates a safing switch.           |\n| CURSORY INSPECTION.                                                           |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 38,
+      "asset_id": "tbl_TO 00-25-172CL-3_p38_d77f6e11",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p39_89645f64",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 40\n\n| 0                                                                      |\n|:-----------------------------------------------------------------------|\n| TO 00-25-172CL-3                                                       |\n| c.                                                                     |\n| Signal                                                                 |\n| the aircrew to shut down the right engine.                             |\n| d. Check for hot brakes.                                               |\n| e. Verify all                                                          |\n| external weapons                                                       |\n| and external                                                           |\n| tanks have been safed.                                                 |\n| Ensure the external fuel tank locking indicator (Figure 6-2) is in the |\n| LOCK position.                                                         |\n| f. Verify the fuel dump (jettison) valve is closed.                    |\n| Avoid the tail hook area when working beneath the aircraft.            |\n| Failure to comply could result                                         |\n| in injury to, or death of, person-                                     |\n| nel or long term health hazards.                                       |\n| g. Open the sonobuoy safing door                                       |\n| (on the fuselage bottom)                                               |\n| just                                                                   |\n| for-                                                                   |\n| ward of                                                                |\n| the left hand sonobuoy chutes. Check the safing link for               |\n| integrity. (There are two linksone for holding the door and the other  |\n| for operating the safing switch).                                      |\n| h.                                                                     |\n| Signal                                                                 |\n| the aircrew to taxi                                                    |\n| to the hot refueling area.                                             |\n| REFUELING.                                                             |\n| a.                                                                     |\n| Position the aircraft on the hot refueling pit.                        |\n| b. Chock and ground the aircraft. (A grounding point                   |\n| is located on the                                                      |\n| bottom of                                                              |\n| the fuselage about                                                     |\n| three feet aft of the nose gear door.)                                 |\n| c.                                                                     |\n| If available, connect                                                  |\n| the intercom (on the nose wheel door).                                 |\n| d. Check that no air is flowing from the external fuel                 |\n| tank vents. This                                                       |\n| verifies that engine bleed air is not pressurizing the external        |\n| tanks.                                                                 |\n| 6-2                                                                    |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 39,
+      "asset_id": "tbl_TO 00-25-172CL-3_p39_89645f64",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p40_ef926eab",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 41\n\n| 0                                                                  | 1                                          |\n|:-------------------------------------------------------------------|:-------------------------------------------|\n| Prior to pressurizing the fuel source, verify the nozzle is locked |                                            |\n| onto the aircraft by attempting to remove the nozzle with the      |                                            |\n| flow handle open.                                                  | If you can remove the nozzle, do not start |\n| the                                                                | the nozzle                                 |\n| refueling until                                                    | is                                         |\n|                                                                    | replaced. Failure                          |\n|                                                                    | to comply                                  |\n| could result                                                       | in injury to, or death of, personnel or    |\n|                                                                    | long term                                  |\n| health hazards.                                                    |                                            |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 40,
+      "asset_id": "tbl_TO 00-25-172CL-3_p40_ef926eab",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p41_caec10ce",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 42\n\n| 0                                                           |\n|:------------------------------------------------------------|\n| TO 00-25-172CL-3                                            |\n| l.                                                          |\n| Position the external                                       |\n| tank fueling switch to OFF.                                 |\n| m. Disconnect                                               |\n| the grounding/bonding wires and the intercom. Secure        |\n| the SPR panel.                                              |\n| Avoid the tail hook area when working beneath the aircraft. |\n| Failure to comply could result                              |\n| in injury to, or death of, person-                          |\n| nel or long term health hazards.                            |\n| n. Close the sonobuoy safing door.                          |\n| o. Remove the chocks and signal                             |\n| the aircrew to taxi away from area.                         |\n| 6-4                                                         |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 41,
+      "asset_id": "tbl_TO 00-25-172CL-3_p41_caec10ce",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p42_6692e799",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 43\n\n| 0           | 1                                       | 2                |\n|:------------|:----------------------------------------|:-----------------|\n|             |                                         | TO 00-25-172CL-3 |\n| Figure 6-1. | S-3 Refueling Provisions (Sheet 1 of 2) |                  |\n|             |                                         | 6-5              |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 42,
+      "asset_id": "tbl_TO 00-25-172CL-3_p42_6692e799",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p43_53585ef7",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 44\n\n| 0                | 1           | 2                                  |\n|:-----------------|:------------|:-----------------------------------|\n| TO 00-25-172CL-3 |             |                                    |\n|                  | Figure 6-1. | S-3 Refueling Provisions (Sheet 2) |\n| 6-6              |             |                                    |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 43,
+      "asset_id": "tbl_TO 00-25-172CL-3_p43_53585ef7",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p44_07dc9457",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 45\n\n| 0           | 1                                  |\n|:------------|:-----------------------------------|\n|             | TO 00-25-172CL-3                   |\n| Figure 6-2. | S-3 External Tank Safing Indicator |\n|             | 6-7/(6-8 blank)                    |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 44,
+      "asset_id": "tbl_TO 00-25-172CL-3_p44_07dc9457",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p45_ced5bc2e",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 46\n\n| 0                                                                        |\n|:-------------------------------------------------------------------------|\n| CHAPTER 7                                                                |\n| AV-8 HOT REFUELING PROCEDURES                                            |\n| 7.1                                                                      |\n| REFUELING/DEFUELING.                                                     |\n| The aircraft                                                             |\n| is refueled/defueled through a standard refuel/defuel                    |\n| recep-                                                                   |\n| tacle located below Door 22 on the left forward fuselage. Ground refuel- |\n| ing controls and indicators and the intercom connection are inside Door  |\n| 22. The maximum refueling pressure is 55 pound-force per square inch     |\n| (PSI). All                                                               |\n| tanks are vented through the vent mast on lower                          |\n| right side of                                                            |\n| fuselage, below the right                                                |\n| front nozzle. Use of                                                     |\n| the intercom is preferred,                                               |\n| but not mandatory. The diagrams                                          |\n| at                                                                       |\n| the                                                                      |\n| end of                                                                   |\n| this                                                                     |\n| chapter                                                                  |\n| show the                                                                 |\n| ground refueling provisions and the armament safing provisions.          |\n| REFUELING PRECAUTIONS.                                                   |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 45,
+      "asset_id": "tbl_TO 00-25-172CL-3_p45_ced5bc2e",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p45_53ea07fd",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 46\n\n| 0   | 1                                                             |\n|:----|:--------------------------------------------------------------|\n| \u2022   |                                                               |\n|     | Failure to comply with the precautions below could result in  |\n|     | injury or death to personnel.                                 |\n| \u2022   |                                                               |\n|     | Aviation turbine fuel                                         |\n|     | is flammable and toxic to eyes, skin,                         |\n|     | and respiratory tract. Skin/eye protection is required. Avoid |\n|     | repeated/prolonged contact. Use only in well ventilated ar-   |\n|     | eas. Keep away from open flames or other sources of           |\n|     | igni-                                                         |\n|     | tion.                                                         |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 45,
+      "asset_id": "tbl_TO 00-25-172CL-3_p45_53ea07fd",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p46_0fcd168c",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 47\n\n| 0                                                                        |\n|:-------------------------------------------------------------------------|\n| TO 00-25-172CL-3                                                         |\n| e. Make sure vent mast                                                   |\n| is not obstructed.                                                       |\n| f. Make sure refueling is not done within 300 feet of ground radar       |\n| equipment.                                                               |\n| g. Make sure refueling is not done within 50 feet of other aircraft with |\n| engine(s) operating.                                                     |\n| h. Operation of                                                          |\n| the Auxiliary Power Unit                                                 |\n| (APU)                                                                    |\n| is prohibited during                                                     |\n| normal refueling.                                                        |\n| i. Do not carry or wear                                                  |\n| loose metal objects, such as knives, keys, or                            |\n| other objects which might cause sparks.                                  |\n| j. Never                                                                 |\n| fuel or defuel during electrical storms.                                 |\n| k. Do not carry matches or cigarette lighters.                           |\n| l. Do not wear shoes with exposed nails, metal plates or hobnails.       |\n| m. Make sure aircraft                                                    |\n| is chocked.                                                              |\n| NOTE                                                                     |\n| Safetied means                                                           |\n| installation                                                             |\n| of                                                                       |\n| any                                                                      |\n| arming                                                                   |\n| lever,                                                                   |\n| safety                                                                   |\n| pin,                                                                     |\n| electrical                                                               |\n| interrupt, plug pin,                                                     |\n| securing of                                                              |\n| armament                                                                 |\n| switches                                                                 |\n| and/or any applicable action which makes the specific ordnance           |\n| carried safe.                                                            |\n| n. All ordnance will be safetied.                                        |\n| o.                                                                       |\n| Fuel pressure from servicing equipment should not exceed 55 PSI,         |\n| during normal refueling.                                                 |\n| p. Make sure aircraft                                                    |\n| is receiving correct                                                     |\n| fuel (JP-4, JP-5 or JP-8).                                               |\n| REFUELING PROCEDURE.                                                     |\n| a. Attach intercom cord and determine quantity of fuel required.         |\n| 7-2                                                                      |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 46,
+      "asset_id": "tbl_TO 00-25-172CL-3_p46_0fcd168c",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p47_76f409e9",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 48\n\n| 0                                                                 |\n|:------------------------------------------------------------------|\n| To prevent                                                        |\n| injury to personnel or damage to aircraft from pos-               |\n| sible static electricity discharge, all personnel                 |\n| involved in refu-                                                 |\n| eling shall dissipate static potential by gripping grounding wire |\n| before                                                            |\n| starting                                                          |\n| refueling                                                         |\n| operation                                                         |\n| and                                                               |\n| repeating                                                         |\n| frequently                                                        |\n| during refueling operation.                                       |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 47,
+      "asset_id": "tbl_TO 00-25-172CL-3_p47_76f409e9",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p47_ac527388",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 48\n\n| 0                                                               | 1                                                                     |\n|:----------------------------------------------------------------|:----------------------------------------------------------------------|\n|                                                                 | sible static electricity discharge, all personnel                     |\n|                                                                 | involved in refu-                                                     |\n|                                                                 | eling shall dissipate static potential by gripping grounding wire     |\n|                                                                 | before                                                                |\n|                                                                 | starting                                                              |\n|                                                                 | refueling                                                             |\n|                                                                 | operation                                                             |\n|                                                                 | and                                                                   |\n|                                                                 | repeating                                                             |\n|                                                                 | frequently                                                            |\n|                                                                 | during refueling operation.                                           |\n| c.                                                              | Static bond aircraft and refueling equipment. (Bonding receptacle is  |\n|                                                                 | on left side of the aircraft near the Single Point Receptacle (SPR).) |\n| d. On FUEL control panel assembly, make sure WING dump switches |                                                                       |\n|                                                                 | are in NORM position.                                                 |\n|                                                                 | e. Remove ground refuel/defuel receptacle cap. On cap equipped with   |\n|                                                                 | locking lever, press lever                                            |\n|                                                                 | to unlock cap during removal.                                         |\n| f.                                                              | Insert                                                                |\n|                                                                 | refueling/defueling nozzle in ground refuel/defuel                    |\n|                                                                 | receptacle                                                            |\n|                                                                 | by pushing and turning clockwise.                                     |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 47,
+      "asset_id": "tbl_TO 00-25-172CL-3_p47_ac527388",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p48_acb8d920",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 49\n\n| 0                                                          |\n|:-----------------------------------------------------------|\n| TO 00-25-172CL-3                                           |\n| k.                                                         |\n| If                                                         |\n| required, set EXTERNAL TANK LOCKOUT switch to LOCK-        |\n| OUT position.                                              |\n| To prevent                                                 |\n| injury to personnel and damage to equipment, do            |\n| not                                                        |\n| refuel aircraft,                                           |\n| if TANK OVER PRESS warning lamp is                         |\n| inoperative.                                               |\n| l.                                                         |\n| Press-to-test TANK OVER PRESS (red) warning light          |\n| for                                                        |\n| lamp                                                       |\n| operation.                                                 |\n| m. On external                                             |\n| fuel                                                       |\n| control panel                                              |\n| assembly,                                                  |\n| set LEFT and RIGHT                                         |\n| REFUEL switches to the SHUT OFF position (toggles up).     |\n| To prevent                                                 |\n| injury to personnel and damage to fuel system, fuel        |\n| pressure from servicing equipment shall not exceed 55 PSI. |\n| n. Apply 55 PSI refueling pressure.                        |\n| To prevent                                                 |\n| injury to personnel and damage to equipment, do            |\n| not attempt                                                |\n| to refuel aircraft                                         |\n| if fuel enters tanks.                                      |\n| o. Make sure REFUEL VALVES are closed preventing fuel      |\n| from en-                                                   |\n| tering fuel                                                |\n| tanks, with refueling pressure applied.                    |\n| p. Remove 55 PSI refueling pressure.                       |\n| q.                                                         |\n| Set LEFT and RIGHT REFUEL switches                         |\n| to REFUEL position                                         |\n| (toggles down).                                            |\n| 7-4                                                        |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 48,
+      "asset_id": "tbl_TO 00-25-172CL-3_p48_acb8d920",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p49_b2e4cff5",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 50\n\n| 0                                                                       |\n|:------------------------------------------------------------------------|\n| TO 00-25-172CL-3                                                        |\n| To prevent                                                              |\n| injury to personnel and damage to equipment, do                         |\n| not exceed 55 PSI refueling pressure.                                   |\n| r. Apply 55 PSI                                                         |\n| refueling pressure.                                                     |\n| s. Make sure LEFT and RIGHT FUEL CONTENTS (green) lights are            |\n| on when refueling pressure is applied.                                  |\n| To prevent                                                              |\n| injury to personnel and damage to equipment, stop                       |\n| refueling immediately if TANK OVER PRESS (red) warning                  |\n| light comes on.                                                         |\n| t.                                                                      |\n| Fuel                                                                    |\n| can be                                                                  |\n| stopped from entering the                                               |\n| external                                                                |\n| tanks by setting                                                        |\n| EXT TANK LOCKOUT switch to LOCKOUT position.                            |\n| u. Monitor external                                                     |\n| fuel control panel assembly.                                            |\n| If                                                                      |\n| the tanks become                                                        |\n| overpressurized during refueling,                                       |\n| the TANK OVER PRESS warn-                                               |\n| ing light will come on.                                                 |\n| If                                                                      |\n| this occurs,                                                            |\n| stop refueling immediately                                              |\n| and investigate cause.                                                  |\n| v. After 60 to 120 gallons of fuel have entered tanks, make sure air is |\n| venting from vent mast on lower                                         |\n| right side of                                                           |\n| fuselage, below the                                                     |\n| right front nozzle.                                                     |\n| w. When tanks are full, LEFT and RIGHT FUEL CONTENTS lights             |\n| will go off.                                                            |\n| If                                                                      |\n| fuel flow does not                                                      |\n| stop automatically,                                                     |\n| fuel                                                                    |\n| spillage                                                                |\n| from vent mast will                                                     |\n| result. Do substeps below immediately:                                  |\n| (1)                                                                     |\n| Stop fuel service operation and turn off                                |\n| fuel servicing equip-                                                   |\n| ment.                                                                   |\n| (2) Disconnect refueling nozzle from refuel/defuel                      |\n| receptacle.                                                             |\n| 7-5                                                                     |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 49,
+      "asset_id": "tbl_TO 00-25-172CL-3_p49_b2e4cff5",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p50_50fe898c",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 51\n\n| 0              | 1                                                                  |\n|:---------------|:-------------------------------------------------------------------|\n|                | (3) Alert fire department and take action to make area safe before |\n|                | moving aircraft or ground support equipment.                       |\n| x.             | Stop refueling equipment.                                          |\n| y. Verify that | the correct quantity of                                            |\n|                | fuel                                                               |\n|                | is displayed on fuel digital                                       |\n|                | display indicator.                                                 |\n| z.             | Set LEFT and RIGHT REFUEL switches to flight position (toggles     |\n|                | up).                                                               |\n| aa. Turn       | refueling                                                          |\n|                | nozzle                                                             |\n|                | counterclockwise                                                   |\n|                | and                                                                |\n|                | remove                                                             |\n|                | refueling                                                          |\n|                | nozzle. To prevent                                                 |\n|                | loss or damage to receptacle cap, make sure cap                    |\n|                | has engaged all                                                    |\n|                | three lugs on the refuel/defuel                                    |\n|                | receptacle. On caps                                                |\n|                | equipped with locking lever, make sure lever                       |\n|                | is flush with cap.                                                 |\n| ab.            | Inspect                                                            |\n|                | refueling receptacle for                                           |\n|                | leakage and install receptacle cap.                                |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 50,
+      "asset_id": "tbl_TO 00-25-172CL-3_p50_50fe898c",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p51_5090da14",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 52\n\n| 0           | 1                                                    |\n|:------------|:-----------------------------------------------------|\n|             | TO 00-25-172CL-3                                     |\n| Figure 7-1. | Refueling/Defueling Controls and Indicators (Sheet 1 |\n|             | of 3)                                                |\n|             | 7-7                                                  |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 51,
+      "asset_id": "tbl_TO 00-25-172CL-3_p51_5090da14",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p52_3ccc8bdd",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 53\n\n| 0                | 1                                                     |\n|:-----------------|:------------------------------------------------------|\n| TO 00-25-172CL-3 |                                                       |\n| Figure 7-1.      | Refueling/Defueling Controls and Indicators (Sheet 2) |\n| 7-8              |                                                       |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 52,
+      "asset_id": "tbl_TO 00-25-172CL-3_p52_3ccc8bdd",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p53_88aa18ae",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 54\n\n| 0           | 1                                                     |\n|:------------|:------------------------------------------------------|\n|             | TO 00-25-172CL-3                                      |\n| Figure 7-1. | Refueling/Defueling Controls and Indicators (Sheet 3) |\n|             | 7-9                                                   |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 53,
+      "asset_id": "tbl_TO 00-25-172CL-3_p53_88aa18ae",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p54_8d1744b5",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 55\n\n| 0                | 1                                           |\n|:-----------------|:--------------------------------------------|\n| TO 00-25-172CL-3 |                                             |\n| Figure 7-2.      | LAU-7/A-5 Launcher Detent Wrench Safety Pin |\n| 7-10             |                                             |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 54,
+      "asset_id": "tbl_TO 00-25-172CL-3_p54_8d1744b5",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p55_f658bb63",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 56\n\n| 0           | 1                                            |\n|:------------|:---------------------------------------------|\n|             | TO 00-25-172CL-3                             |\n| Figure 7-3. | ITER Ejector Unit Assembly Safety Stop Lever |\n|             | 7-11                                         |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 55,
+      "asset_id": "tbl_TO 00-25-172CL-3_p55_f658bb63",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p56_ac784946",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 57\n\n| 0                | 1           | 2                            |\n|:-----------------|:------------|:-----------------------------|\n| TO 00-25-172CL-3 |             |                              |\n|                  | Figure 7-4. | Aircraft 25MM Gun Safety Pin |\n| 7-12             |             |                              |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 56,
+      "asset_id": "tbl_TO 00-25-172CL-3_p56_ac784946",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_table_tbl_TO 00-25-172CL-3_p57_51714e10",
+    "type": "table",
+    "content": "TABLE FROM DOCUMENT TO 00-25-172CL-3, PAGE 58\n\n| 0           | 1                              |\n|:------------|:-------------------------------|\n|             | TO 00-25-172CL-3               |\n| Figure 7-5. | ALE-39 Ejector Rack Safety Pin |\n|             | 7-13/(7-14 blank)              |",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 57,
+      "asset_id": "tbl_TO 00-25-172CL-3_p57_51714e10",
+      "asset_type": "table"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_warning_warn_TO 00-25-172CL-3_p2_9c3e76c1",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-3, PAGE 3\n\nNOTE: When searching technical order (TO) numbers in the Enhanced",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 2,
+      "asset_id": "warn_TO 00-25-172CL-3_p2_9c3e76c1",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_warning_warn_TO 00-25-172CL-3_p5_03c7c0ac",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-3, PAGE 6\n\nCAUTION: s",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 5,
+      "asset_id": "warn_TO 00-25-172CL-3_p5_03c7c0ac",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_warning_warn_TO 00-25-172CL-3_p5_edcfdd4b",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-3, PAGE 6\n\nWARNING: s, CAUTIONs, and",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 5,
+      "asset_id": "warn_TO 00-25-172CL-3_p5_edcfdd4b",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_warning_warn_TO 00-25-172CL-3_p5_6dbd36ad",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-3, PAGE 6\n\nNOTE: s included in that task shall be reviewed and understood.\n2",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 5,
+      "asset_id": "warn_TO 00-25-172CL-3_p5_6dbd36ad",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_warning_warn_TO 00-25-172CL-3_p5_fdc36397",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-3, PAGE 6\n\nWARNING: S, CAUTIONS, AND NOTES.",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 5,
+      "asset_id": "warn_TO 00-25-172CL-3_p5_fdc36397",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_warning_warn_TO 00-25-172CL-3_p5_97cf58ab",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-3, PAGE 6\n\nWARNING: s and CAUTIONs are used in this manual to highlight oper-",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 5,
+      "asset_id": "warn_TO 00-25-172CL-3_p5_97cf58ab",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_warning_warn_TO 00-25-172CL-3_p5_8ab25a8d",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-3, PAGE 6\n\nWARNING: ) or",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 5,
+      "asset_id": "warn_TO 00-25-172CL-3_p5_8ab25a8d",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_warning_warn_TO 00-25-172CL-3_p5_53fe1bc6",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-3, PAGE 6\n\nCAUTION: ). WARNINGs and CAUTIONs immediately pre-",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 5,
+      "asset_id": "warn_TO 00-25-172CL-3_p5_53fe1bc6",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_warning_warn_TO 00-25-172CL-3_p5_16374d85",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-3, PAGE 6\n\nWARNING: s and CAU-",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 5,
+      "asset_id": "warn_TO 00-25-172CL-3_p5_16374d85",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_warning_warn_TO 00-25-172CL-3_p5_a70b0f4a",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-3, PAGE 6\n\nWARNING: , CAUTION, or icon),",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 5,
+      "asset_id": "warn_TO 00-25-172CL-3_p5_a70b0f4a",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_warning_warn_TO 00-25-172CL-3_p5_66e9cbea",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-3, PAGE 6\n\nCAUTION: s, and possible results if",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 5,
+      "asset_id": "warn_TO 00-25-172CL-3_p5_66e9cbea",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_warning_warn_TO 00-25-172CL-3_p5_267eda3c",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-3, PAGE 6\n\nNOTE: s are used in this manual to highlight operating or",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 5,
+      "asset_id": "warn_TO 00-25-172CL-3_p5_267eda3c",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_warning_warn_TO 00-25-172CL-3_p5_36ad7eef",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-3, PAGE 6\n\nNOTE: s may pre-",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 5,
+      "asset_id": "warn_TO 00-25-172CL-3_p5_36ad7eef",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_warning_warn_TO 00-25-172CL-3_p6_53851611",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-3, PAGE 7\n\nNOTE: Highlights an essential operating or maintenance procedure,",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 6,
+      "asset_id": "warn_TO 00-25-172CL-3_p6_53851611",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_warning_warn_TO 00-25-172CL-3_p7_a5cb5c38",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-3, PAGE 8\n\nCAUTION: S.",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 7,
+      "asset_id": "warn_TO 00-25-172CL-3_p7_a5cb5c38",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_warning_warn_TO 00-25-172CL-3_p45_352cbfdb",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-3, PAGE 46\n\nCAUTION: S.\n\u2022",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 45,
+      "asset_id": "warn_TO 00-25-172CL-3_p45_352cbfdb",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_warning_warn_TO 00-25-172CL-3_p45_bc74e308",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-3, PAGE 46\n\nCAUTION: s below could result in",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 45,
+      "asset_id": "warn_TO 00-25-172CL-3_p45_bc74e308",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_warning_warn_TO 00-25-172CL-3_p46_74aab75e",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-3, PAGE 47\n\nNOTE: Safetied means installation of any arming lever, safety pin,",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 46,
+      "asset_id": "warn_TO 00-25-172CL-3_p46_74aab75e",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_warning_warn_TO 00-25-172CL-3_p47_0cd94641",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-3, PAGE 48\n\nCAUTION: s. Avoid the engine inlet.",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 47,
+      "asset_id": "warn_TO 00-25-172CL-3_p47_0cd94641",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_warning_warn_TO 00-25-172CL-3_p48_6604f530",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-3, PAGE 49\n\nWARNING: lamp is",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 48,
+      "asset_id": "warn_TO 00-25-172CL-3_p48_6604f530",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_warning_warn_TO 00-25-172CL-3_p48_625f82ec",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-3, PAGE 49\n\nWARNING: light for lamp",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 48,
+      "asset_id": "warn_TO 00-25-172CL-3_p48_625f82ec",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  },
+  {
+    "id": "chunk_TO 00-25-172CL-3_warning_warn_TO 00-25-172CL-3_p49_ec6d05a6",
+    "type": "warning",
+    "content": "WARNING FROM DOCUMENT TO 00-25-172CL-3, PAGE 50\n\nWARNING: light comes on.",
+    "metadata": {
+      "document_id": "TO 00-25-172CL-3",
+      "to_number": "00-25-172CL-3",
+      "section_id": "unknown",
+      "section_title": "unknown",
+      "page_num": 49,
+      "asset_id": "warn_TO 00-25-172CL-3_p49_ec6d05a6",
+      "asset_type": "warning",
+      "warning_type": "WARNING"
+    }
+  }
+]
